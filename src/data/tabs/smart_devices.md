@@ -48,6 +48,7 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             Once the AIME internship was finished for all the groups and using the concepts we learned during the "Introduction to sensors" class, we were able to redact a datasheet that tries to be as close as possible to the ones you can find in the industry, made by professional mnufacturers. You can find the datasheet made by my group in the link below:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sdev_datasheet.pdf">Datasheet</a>
         </p>
     </details>
     <br>
@@ -65,7 +66,6 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             As a delierable for the project, we redacted a quick report in the form of a README file, follow the link below to consult it:
-            [Datasheet](https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sdev_datasheet.pdf)
         </p>
     </details>
 </details>
