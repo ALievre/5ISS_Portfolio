@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "title": "My CV",
+    "subtitle": "Here, you can find my CV.",
+    "info": "I update it everytime I have a new experience"
+  },
+  "semesters": [
+    {
+      "name": "January 2022",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "CV Link",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/Portfolio/blob/main/public/files/CV_Lievre.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
