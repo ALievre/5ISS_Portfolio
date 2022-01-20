@@ -5,9 +5,9 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ALievre/Portfolio"
+    "url": "https://github.com/ALievre/5ISS_Portfolio"
   },
-  "homepage": "https://alievre.github.io/Portfolio/",
+  "homepage": "https://alievre.github.io/5ISS_Portfolio/",
   "license": "GNU GPLv3",
   "scripts": {
     "predeploy": "npm run build",
