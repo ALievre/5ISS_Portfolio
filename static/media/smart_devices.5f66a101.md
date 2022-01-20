@@ -65,6 +65,7 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             As a delierable for the project, we redacted a quick report in the form of a README file, follow the link below to consult it:
+            [Datasheet](https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sdev_datasheet.pdf)
         </p>
     </details>
 </details>
