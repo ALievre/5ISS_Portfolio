@@ -18,15 +18,15 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
     </tr>
     <tr>
        <td style="border: 1px #56b6c2 solid; font-weight: bold;">Microcontrollers & Open-Source Hardware, Embedded IA (M&OSH)</td>
-       <td style="border: 1px #56b6c2 solid;">Project elaborated in groups of two involving the gas sensor that we built. It consisted of using our sensor with an ESP32, creating a PCB board using KiCad and adding a Lora communication module to turn our sensor into a smart sensor sending data to The Things Network's cloud.</td>
+       <td style="border: 1px #56b6c2 solid;">Project developed in groups of two using the gas sensor we built. We used our sensor with an ESP32, creating a PCB board using KiCad and adding a Lora communication module to turn our sensor into a smart sensor sending data to The Things Network's cloud.</td>
     </tr>
     <tr>
        <td style="border: 1px #56b6c2 solid; font-weight: bold;">CAD, Manufacturing & Integration of Nano-Technology Sensors (AIME)</td>
-       <td style="border: 1px #56b6c2 solid;">Internship at the AIME lab to realize the chemical process of creating our sensor with a nano-particle deposition on a silicium board.</td>
+       <td style="border: 1px #56b6c2 solid;">Internship at the AIME lab to follow and realize the process of creating the gas sensor with a nano-particle deposition on a silicium board.</td>
     </tr>
     <tr>
        <td style="border: 1px #56b6c2 solid; font-weight: bold;">Sensors Introduction</td>
-       <td style="border: 1px #56b6c2 solid;">Theoretical lectures and practical works about the physical concepts of different types of sensors and how to create a sensor datasheet. This helped us create the datasheet for our gas sensor.</td>
+       <td style="border: 1px #56b6c2 solid;">Theoretical lectures and practical works about the physical concepts of different types of sensors and how to create a sensor datasheet.</td>
     </tr>
     <tr>
        <td style="border: 1px #56b6c2 solid; font-weight: bold;">Analog Electronics Labs</td>
@@ -66,6 +66,7 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             As a delierable for the project, we redacted a quick report in the form of a README file, follow the link below to consult it:
+            <a href="https://github.com/MOSH-Insa-Toulouse/2021_2022_LIEVRE_NGUYEN">M&OSH Project</a>
         </p>
     </details>
 </details>
@@ -113,90 +114,98 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
 <br>
 <details>
     <summary style="color: #56b6c2">Analysis</summary>
+    <p>
+        You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
+    </p>
     <br>
     <details style="text-indent: 2%;">
         <summary style="color: #56b6c2">Self-evaluation with the skills matrix</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             This module was one of my favorite one. It required the widest array of skills in electronics, signal processing, physics, and programming. I really feel that I acquired the skills expected.
         </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For the Introduction to Sensors course, my background in Electronics really helped me understand what was expected of me. The cleanroom sessions were well explained so we could understand every step of the process. The datasheet was more challenging to write but coming from AE helped me since I already knew how to read a datasheet.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            As for the M&OSH project, I really felt invested because that is the type of project I really like. Coming from AE and from personal projects, I already had previous experience to help me with this project.
-        </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #56b6c2 solid; text-align: center; margin-left: 2%;">
-    <tr style="border: 1px #56b6c2 solid; background-color: #56b6c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-       <th style="border: 1px #56b6c2 solid;">Skill</th>
-       <th style="border: 1px #56b6c2 solid;">Required level</th>
-       <th style="border: 1px #56b6c2 solid;">Self-evaluation</th>
-       <th style="border: 1px #56b6c2 solid;">Learning mode</th>
-    </tr>
-    <tr>
-       <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Introduction to sensors</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #56b6c2 solid;">Understand basic notions of sensors, data acquisition: physics, electronics and metrology point of view</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">IT</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #56b6c2 solid;">Be able to manufacture a nano-particles sensor using micro-electronics tools: chemical synthesis, assembly, testing</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">IT</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #56b6c2 solid;">Be able to design the datasheet of the sensor manufactured</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">IT + PE</td>
-    </tr>
-    <tr style="border: 1px #56b6c2 solid; background-color: #56b6c2;">
-        <td colspan="4"></td>
-    </tr>
-    <tr>
-       <td style="border: 1px #abb2bf solid;background-color: #abb2bf; color: #282c34" colspan="4">Microcontrollers and Open Source Hardware</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #56b6c2 solid;">Understand microcontroller archictecture and how to use them</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">IT + ST</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #56b6c2 solid;">Be able to design data acquisition system (sensor, conditioner, microcontroller) with respect to the application</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">IT + ST</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #56b6c2 solid;">Be able to design the electronic circuit of a sensor’s signal conditioner (design + simulation)</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">IT + PE</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #56b6c2 solid;">Be able to design a shield to accommodate the gas sensor</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">IT</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #56b6c2 solid;">Be abe to design the sofware to use the gas sensor and its HMI</td>
-       <td style="border: 1px #56b6c2 solid;">3</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">IT + ST</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #56b6c2 solid;">Be able to combine all of the above mentioned components into a smart device</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">4</td>
-       <td style="border: 1px #56b6c2 solid;">IT</td>
-    </tr>
-    </table>
+            <tr style="border: 1px #56b6c2 solid; background-color: #56b6c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
+                <th style="border: 1px #56b6c2 solid;">Skill</th>
+                <th style="border: 1px #56b6c2 solid;">Required level</th>
+                <th style="border: 1px #56b6c2 solid;">Self-evaluation</th>
+                <th style="border: 1px #56b6c2 solid;">Learning mode</th>
+            </tr>
+            <tr>
+                <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Introduction to sensors</td>
+            </tr>
+            <tr>
+                <td style="border: 1px #56b6c2 solid;">Understand basic notions of sensors, data acquisition: physics, electronics and metrology point of view</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">IT</td>
+            </tr>
+            <tr>
+                <td style="border: 1px #56b6c2 solid;">Be able to manufacture a nano-particles sensor using micro-electronics tools: chemical synthesis, assembly, testing</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">IT</td>
+            </tr>
+            <tr>
+                <td style="border: 1px #56b6c2 solid;">Be able to design the datasheet of the sensor manufactured</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">IT + PE</td>
+            </tr>   
+        </table>
+        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+            For the Introduction to Sensors skillset, my background in Electronics really helped me understand what was expected of me. The cleanroom sessions were well explained so we could understand every step of the process. The datasheet was more challenging to write but coming from AE helped me since I already knew how to read a datasheet.
+        </p>
+        <table style="border-collapse: collapse; border: 1px #56b6c2 solid; text-align: center; margin-left: 2%;">
+            <tr style="border: 1px #56b6c2 solid; background-color: #56b6c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
+                <th style="border: 1px #56b6c2 solid;">Skill</th>
+                <th style="border: 1px #56b6c2 solid;">Required level</th>
+                <th style="border: 1px #56b6c2 solid;">Self-evaluation</th>
+                <th style="border: 1px #56b6c2 solid;">Learning mode</th>
+            </tr>
+            <tr>
+                <td style="border: 1px #abb2bf solid;background-color: #abb2bf; color: #282c34" colspan="4">Microcontrollers and Open Source Hardware</td>
+            </tr>
+            <tr>
+                <td style="border: 1px #56b6c2 solid;">Understand microcontroller archictecture and how to use them</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">IT + ST</td>
+            </tr>
+            <tr>
+                <td style="border: 1px #56b6c2 solid;">Be able to design data acquisition system (sensor, conditioner, microcontroller) with respect to the application</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">IT + ST</td>
+            </tr>
+            <tr>
+                <td style="border: 1px #56b6c2 solid;">Be able to design the electronic circuit of a sensor’s signal conditioner (design + simulation)</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">IT + PE</td>
+            </tr>
+            <tr>
+                <td style="border: 1px #56b6c2 solid;">Be able to design a shield to accommodate the gas sensor</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">IT</td>
+            </tr>
+            <tr>
+                <td style="border: 1px #56b6c2 solid;">Be abe to design the sofware to use the gas sensor and its HMI</td>
+                <td style="border: 1px #56b6c2 solid;">3</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">IT + ST</td>
+            </tr>
+            <tr>
+                <td style="border: 1px #56b6c2 solid;">Be able to combine all of the above mentioned components into a smart device</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">4</td>
+                <td style="border: 1px #56b6c2 solid;">IT</td>
+            </tr>
+        </table>
+        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+            As for the M&OSH skillset, I really felt invested because that is the type of project I really like. Coming from AE and from personal projects, I already had previous experience to help me with this project.
+        </p>
     </details>
     <br>
     <details style="text-indent: 2%;">

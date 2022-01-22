@@ -34,6 +34,7 @@ SUPERVIZOR: NAWAL GUERMOUCHE
         <summary style="color: #98c379">Data processing and clustering project</summary>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             In this class, we learned how to process data and we saw different clustering methods. We could choose some data sets from a wide choice of data sets to study the different clustering methods. We studied the K-Means, Agglomerative and DBSCAN methods. After establishing the benefits and drawbacks of each methods, we used them to study unknown data sets. Finally, we had to do a full study of a real meteorological data. You can find the report in the link below: 
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/bigdata_report.pdf">Data Clustering Report</a>
         </p>
     </details>
 </details>
@@ -68,20 +69,14 @@ SUPERVIZOR: NAWAL GUERMOUCHE
 <br>
 <details>
     <summary style="color: #98c379">Analysis</summary>
+    <p>
+        You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
+    </p>
     <br>
     <details style="text-indent: 2%;">
         <summary style="color: #98c379">Self-evaluation with the skills matrix</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             This module contained really different types of skills. The majority of those skills were new to me but I managed to acquired them thanks to these courses.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For the Semantic Data class, I think I met the requirements by doing the labs which were really useful to me to fully comprehend the notions.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For the Big Data class, I was really invested in learning how to cluster the data even though I never did it before. I learned a lot of skills during these labs.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For the Software Engineering class, I already knew the Agile method but learning to use a tool to help implement it is a good skill to have. It was also interesting to acquire a new method of software development, i.e., continuous integration. I think that I met the requirements but that I did not have time to go further.
         </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #98c379 solid; text-align: center; margin-left: 2%;">
@@ -112,8 +107,17 @@ SUPERVIZOR: NAWAL GUERMOUCHE
        <td style="border: 1px #98c379 solid;">4</td>
        <td style="border: 1px #98c379 solid;">IT + PP</td>
     </tr>
-    <tr style="border: 1px #98c379 solid; background-color: #98c379;">
-        <td colspan="4"></td>
+    </table>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+        For the Software Engineering class, I already knew the Agile method but learning to use a tool to help implement it is a good skill to have. It was also interesting to acquire a new method of software development, i.e., continuous integration. I think that I met the requirements but that I did not have time to go further.
+    </p>
+   <br>
+    <table style="border-collapse: collapse; border: 1px #98c379 solid; text-align: center; margin-left: 2%;">
+    <tr style="border: 1px #98c379 solid; background-color: #98c379; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
+       <th style="border: 1px #98c379 solid;">Skill</th>
+       <th style="border: 1px #98c379 solid;">Required level</th>
+       <th style="border: 1px #98c379 solid;">Self-evaluation</th>
+       <th style="border: 1px #98c379 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Processing Semantic Data</td>
@@ -136,8 +140,17 @@ SUPERVIZOR: NAWAL GUERMOUCHE
        <td style="border: 1px #98c379 solid;">4</td>
        <td style="border: 1px #98c379 solid;">IT</td>
     </tr>
-    <tr style="border: 1px #98c379 solid; background-color: #98c379;">
-        <td colspan="4"></td>
+    </table>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+        For the Semantic Data class, I think I met the requirements by doing the labs which were really useful to me to fully comprehend the notions.
+    </p>
+    <br>
+    <table style="border-collapse: collapse; border: 1px #98c379 solid; text-align: center; margin-left: 2%;">
+    <tr style="border: 1px #98c379 solid; background-color: #98c379; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
+       <th style="border: 1px #98c379 solid;">Skill</th>
+       <th style="border: 1px #98c379 solid;">Required level</th>
+       <th style="border: 1px #98c379 solid;">Self-evaluation</th>
+       <th style="border: 1px #98c379 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Data Processing and Analysis: Big Data</td>
@@ -155,6 +168,9 @@ SUPERVIZOR: NAWAL GUERMOUCHE
        <td style="border: 1px #98c379 solid;">IT</td>
     </tr>
     </table>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+        For the Big Data class, I was really invested in learning how to cluster the data even though I never did it before. I learned a lot of skills during these labs.
+    </p>
     </details>
     <br>
     <details style="text-indent: 2%;">

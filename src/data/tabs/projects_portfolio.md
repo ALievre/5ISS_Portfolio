@@ -9,7 +9,7 @@ SUPERVIZOR: VINCENT MIGLIORE
 <details>
     <summary style="color: #42a5f5">Description</summary>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-        This module gathers three classes. This is an important module because it includes the biggest project of the semester. We improved our English with this project since every deliverable must be in English. Moreover, the portfolio is the completion of the semester since it regroups every skills and knowledge we acquired during the semester.
+        This module gathers three classes. This is an important module because it includes the biggest project of the semester. We improved our English with this project since every deliverable must be in English. Moreover, the portfolio is the completion of the semester since it regroups every skill and knowledge we acquired during the semester.
     </p>
     <table style="border-collapse: collapse; border: 1px #42a5f5 solid; text-align: center; margin-left: 2%;">
     <tr style="border: 1px #42a5f5 solid; background-color: #42a5f5; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
@@ -18,11 +18,11 @@ SUPERVIZOR: VINCENT MIGLIORE
     </tr>
     <tr>
        <td style="border: 1px #42a5f5 solid; font-weight: bold;">Innovative project</td>
-       <td style="border: 1px #42a5f5 solid;">Student of Industrial project, linked to a key problematic in IoT or embedded systems of today. Project managed by a team of six students of different backgrounds, with a final product presentation and demonstration at the end of the semester.</td>
+       <td style="border: 1px #42a5f5 solid;">Project managed by a team of five students from different backgrounds, with a final product presentation and demonstration at the end of the semester.</td>
     </tr>
     <tr>
        <td style="border: 1px #42a5f5 solid; font-weight: bold;">English</td>
-       <td style="border: 1px #42a5f5 solid;">Linked with the innovative project, the english class requires some deliverables in addition to helping with the different project presentations throughout the year. Creation of a website and a video for our project.</td>
+       <td style="border: 1px #42a5f5 solid;">Linked with the innovative project, the english class requires some deliverables and project presentations throughout the year.</td>
     </tr>
     <tr>
        <td style="border: 1px #42a5f5 solid; font-weight: bold;">Portfolio</td>
@@ -53,153 +53,144 @@ SUPERVIZOR: VINCENT MIGLIORE
     <details style="text-indent: 2%;">
         <summary style="color: #42a5f5">Innovative project</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            KIT
+            The first challenge we encounter was to assimilate the new notions. We had to do a lot of research to understand the RTK technology and architecture. These notions are truly complex and took us a lot of time to comprehend. Moreover, we used some new technologies to build a database and display a map on our website. After all, we still managed to do everything we wanted and learned a lot of new skills. 
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            NO RTK
+            Even if the kit in our possession was supposed to be “plug & play”, we had a hard time finding the right configuration to obtain an RTK positioning. First, we had difficulties reading the raw frames obtained with the XCTU software. So, we created a program using an ESP32 to recover the frames and parse them. Then, to find the root of our problem, we linked the base and the rover’s board together. In doing so, we realized that it was the Xbee module that were not properly configured. So then, we configured the Xbee module the right way, with the good baudrate. This solution was found thanks to research and strategic thinking. It truly was a team effort. 
+        </p>
+        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+            One of the main challenges was to find the right time and place to do the experiments. As a matter of fact, to have a RTK positioning, you need an open-sky view. If we do not have that, it is impossible to have an accuracy of a few centimeters. Moreover, since we are in winter, it was difficult to test outside because our computers would not hold long enough to really test our solution.
         </p>
     </details>
     <br>
     <details style="text-indent: 2%;">
         <summary style="color: #42a5f5">English</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            The entire ISS program is provided in english, most of the classes being taught in english along with all presentations we had to make. It is an important part of the entire year, but it was mostly linked with the innovative project. To that end, the main challenge this year linked to english was the realization of a website to promote our product: Alison. I was in charge of developing the website, so it was a software challenge for me. I believe starting with the Alison website both last year and this year is what made me consider building my portfolio as a website as well.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            Concerning the english of the website, the main difficulty was writing in a style that corresponds well to startups and young projects. The idea was not simply to write correct english, we also had to be enciting in our communication to generate interest around the project.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            We also had a lot of work for the different presentations of the project we made throughout the year. While we have practised our presentation skills for five years, there are still many ways that we can improve, especially in english. After presenting the final product at the end of the semester, I really felt like I had made progress on my presentation skills in english, having a better energy and fluidity in my speech.
+            The entire semester is provided in English. It is an important part of the 5ISS classes, but it was mostly linked to the Innovative project since every deliverable was to be in English. We had two project reviews in English to present the progress we made throughout the semester. Moreover, the report must be written in English. Thus, we had a lot of opportunities to improve our English, both oral and written. Moreover, we had English class since the first year at INSA Toulouse, so we made huge progress since the beginning of our school days. Obviously, there are still many ways that we can improve it, but I really feel like I had made progress on my presentation skills in English, having a better energy and fluidity in my speech.
         </p>
     </details>
     <br>
     <details style="text-indent: 2%;">
         <summary style="color: #42a5f5">Portfolio</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            Similarly to the website I had to develop for our Innovative project, the main technical challenge of this portoflio is the form I decided to give it. The main challenge of course is writing the content of the portfolio, but this will be the focus of the analytical part. I chose to build a website to have a really flexible portfolio, where one could navigate clearly and easily between all the pieces that are put together. There is a lot of content in this portfolio and I did not want to stull 80% of the content in an appendix part at the end where no one would read it. I wanted everything to be readily available, and I am confident that I succeeded with this objective.
+            The first challenge was to decide how to display my portfolio. I already decided to do a website, so I can learn new skills. The main challenge of course is writing the content of the portfolio, but this will be the focus of the analytical part. I chose to use a fun template for my portfolio. That is why I decided to use this template. It represents a Visual Studio Code page. I used it because to me, it symbolizes all my projects since I used VS Code for almost all of them.
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-           The website was realized using bootstrap 4 and a bootstrap 4 theme called Paper Kit 2. While the use of a theme certainly helped with the initial design of the website, I truly believe that the changes I made to it and the decisions I made in the layout and choice of content to include really improved my web design skills. It is a domain that is not really taught at INSA (understandably so because it is not always an engineer's job) but I personally really enjoy it, so I really appreciated the opportunity to improve thanks to the portfolio.
+            This website was realized using React, TypeScript, JSON, Markdown and HTML5. While I used a template, the change I mage in the layout and choice of content really improved my web design skills. Even though it is not a domain really taught at INSA, I personally enjoy doing it. Moreover, it allowed me to prepare a little bit for my internship since I will be using React to do some web development. Thus, I really like the opportunity to improve my skills thanks to the portfolio. I just wished I had more time to completely create my website from scratch instead of using a template.
         </p>
     </details>
 </details>
 <br>
 <details>
     <summary style="color: #42a5f5">Analysis</summary>
+    <p>
+        You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
+    </p>
     <br>
     <details style="text-indent: 2%;">
         <summary style="color: #42a5f5">Self-evaluation with the skills matrix</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            None of the skills present in this module are technical skills. Even though being an engineer in compmuter science is a mainly technical jobs, I feel like the skills I acquired in this module are some of the most important of the year.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            I really invested myself into the Innovative Project, because it is a project that I was personally involved in from last year and I really like working on it. This year, I had more of a manager role, dealing with coordinating the different skillsets and tasks at hand. I feel that I really improved on my presentation and communication skills, and that my enthusiasm for this project was received by others. We were able to go from a technological proof of concept of sound recognition with NMF, to a fully packaged product with a real client experience that worked great as a demonstration. The project is still open and we may have a partnership with Toulouse city-hall to continue it moving forward. In the end, the innovative project is probably what I am the most proud of for this year.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            Speaking of things I am really proud of, the portfolio is probably close second behind the project. I have been frustrated this year because I felt that we had too little time to really invest in the different deliverables we had to produce, so I knew I wanted to spend time on the portfolio to make it as good as I could. I started really late, having only a rough draft at the end of December. However, I knew since the end of November that I wanted to invest all my time during the christmas break in it. I made sure that I ended all my other assignments to have only the portfolio to work on.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            I tried to work on the form to have something as easy and pleasant to read as possible, but also on the actual content that remains the most important part of the exercise. I made the choice to only present experiences made during the 5ISS program, not including my 4th year internship (even though the poster is viewable in the generalities section) or skills coming from out of INSA, like the ones acquired during my time in the Enfoiros for example.
-            To me, this was a really dense formation and I have learned way enough things to fill this portfolio with.
+            Even though none of the skills expected of this module were technical skills, I think that they were all very important for our career and our personal growth. 
         </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #42a5f5 solid; text-align: center; margin-left: 2%;">
-    <tr style="border: 1px #42a5f5 solid; background-color: #42a5f5; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-       <th style="border: 1px #42a5f5 solid;">Skill</th>
-       <th style="border: 1px #42a5f5 solid;">Required level</th>
-       <th style="border: 1px #42a5f5 solid;">Self-evaluation</th>
-       <th style="border: 1px #42a5f5 solid;">Learning mode</th>
-    </tr>
-    <tr>
-       <td style="border: 1px #42a5f5 solid; background-color: #abb2bf; color: #282c34" colspan="4">Innovative Project</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #42a5f5 solid;">Analyse a real-life problem</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">IT</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #42a5f5 solid;">Suggest a technological solution to a problem</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">IT</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #42a5f5 solid;">Implement a prototype to solve the problem</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">IT + PE</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #42a5f5 solid;">Present and debate (in English) the technical choice made</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">IT + ST</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #42a5f5 solid;">Produce a report (in English) for the developed project</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">IT + ST</td>
-    </tr>
-    <tr style="border: 1px #42a5f5 solid; background-color: #42a5f5;">
-        <td colspan="4"></td>
-    </tr>
-    <tr>
-       <td style="border: 1px #42a5f5 solid; background-color: #abb2bf; color: #282c34" colspan="4">Self Evaluation with Portfolio</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #42a5f5 solid;">Reflect upon my training process and methods</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">IT + PE</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #42a5f5 solid;">Be able to put forward my training experiences, whether they be explicit or implicit</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">IT</td>
-    </tr>
-    <tr>
-       <td style="border: 1px #42a5f5 solid;">Be self-sufficient and responsible towards my education</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">4</td>
-       <td style="border: 1px #42a5f5 solid;">IT + ST</td>
-    </tr>
+        <tr style="border: 1px #42a5f5 solid; background-color: #42a5f5; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
+            <th style="border: 1px #42a5f5 solid;">Skill</th>
+            <th style="border: 1px #42a5f5 solid;">Required level</th>
+            <th style="border: 1px #42a5f5 solid;">Self-evaluation</th>
+            <th style="border: 1px #42a5f5 solid;">Learning mode</th>
+        </tr>
+        <tr>
+            <td style="border: 1px #42a5f5 solid; background-color: #abb2bf; color: #282c34" colspan="4">Innovative Project</td>
+        </tr>
+        <tr>
+            <td style="border: 1px #42a5f5 solid;">Analyse a real-life problem</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">IT</td>
+        </tr>
+        <tr>
+            <td style="border: 1px #42a5f5 solid;">Suggest a technological solution to a problem</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">IT</td>
+        </tr>
+        <tr>
+            <td style="border: 1px #42a5f5 solid;">Implement a prototype to solve the problem</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">IT + PE</td>
+        </tr>
+        <tr>
+            <td style="border: 1px #42a5f5 solid;">Present and debate (in English) the technical choice made</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">IT + ST</td>
+        </tr>
+        <tr>
+            <td style="border: 1px #42a5f5 solid;">Produce a report (in English) for the developed project</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">IT + ST</td>
+        </tr>
+        </table>
+        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+            I was really invested in the Innovative project because I was interested in the subject. It was full of challenges, but we managed to overcome them all and even going further than I even would have imagined at the beginning of the semester. Thus, I am very proud of my team for doing so. With this project, I feel that I truly improved my technical skills but also my presentation and communication skills. 
+        </p>
+        <table style="border-collapse: collapse; border: 1px #42a5f5 solid; text-align: center; margin-left: 2%;">
+        <tr style="border: 1px #42a5f5 solid; background-color: #42a5f5; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
+            <th style="border: 1px #42a5f5 solid;">Skill</th>
+            <th style="border: 1px #42a5f5 solid;">Required level</th>
+            <th style="border: 1px #42a5f5 solid;">Self-evaluation</th>
+            <th style="border: 1px #42a5f5 solid;">Learning mode</th>
+        </tr>
+        <tr>
+            <td style="border: 1px #42a5f5 solid; background-color: #abb2bf; color: #282c34" colspan="4">Self Evaluation with Portfolio</td>
+        </tr>
+        <tr>
+            <td style="border: 1px #42a5f5 solid;">Reflect upon my training process and methods</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">IT + PE</td>
+        </tr>
+        <tr>
+            <td style="border: 1px #42a5f5 solid;">Be able to put forward my training experiences, whether they be explicit or implicit</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">IT</td>
+        </tr>
+        <tr>
+            <td style="border: 1px #42a5f5 solid;">Be self-sufficient and responsible towards my education</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">4</td>
+            <td style="border: 1px #42a5f5 solid;">IT + ST</td>
+        </tr>
     </table>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+            Likewise, I am proud of my portfolio. During all the semester, I was pretty frustrated because I felt like I did not have time to really invest myself into the different deliverables we had to produce. So, I knew that I wanted to spend a lot of time on this portfolio. I wanted to make it as good as I could. Even though I started late, like most part of the students, I wanted to end over all of my other reports before the Christmas holidays to be sure to have time to work on my portfolio during this time. The layout of the website was very important but the content of it was even more. I chose to only talk about my 5th year modules and my 4th year internship because of the density of the 5th year. I thought there was already enough notions and skills to present to fill the entire portfolio.
+        </p>
     </details>
     <br>
     <details style="text-indent: 2%;">
         <summary style="color: #42a5f5">General review and feedback on the course</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For this module, I decided not to make a specific module review but rather try to think about the year in general. The Innovative project really encapsulates the biggest part of the year for me, and it was not really relevent to talk about it without the rest.
+            I wanted, for this feedback, to make a conclusion of this semester. I really liked how the semester was built with all the modules given to us to help us with our Innovative project. We clearly saw that all the classes, the tutorials, the labs, and the side projects helped us with the final project. I think that the modules really succeeded to convey that feeling.
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            I am writing this conclusion after participating in the general review of ISS between students and the teachers. I don't think that I truly understood the philosophy of ISS until that point. What it aims to be is a series of modules, with mainly lectures and laboratories, designed to help us and give us skills in our Innovative project. The way I experienced it, it was more many courses and modules with their own projects and deliverables, and then a big project that had no real connection to them. This is probably due to the fact that our project comes from our initiative, so the scientific content in it does not directly relate to what we see in 5ISS.
+            	I was very satisfied with my choice to go in ISS. I really the kind of module like Smart Devices as it depicted exactly what I expected from ISS. Every class and lab were working together toward a bigger project. I have no doubt about the difficulty to establish this kind of module. So, I am very happy that I could beneficiate of all the feedbacks the older students made and the work of the professors and tutors which made this quality teaching possible.
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
            However, this does not mean that I was not satisfied with the teaching of the year. There were some really good and interesting modules, expecially Smart Devices. To me, it really encapsulates the spirit of ISS as I see it. All the classes in the module flow well together, there are dedicated requirements for every background, and you build a real tangible thing in the end that you can be proud of.
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            The bet of proposing such an innovative teaching for every module is of course really hard to put in place, however I wish that more modules would reach the same level of flexibility as this one, and I believe that each year will improve the quality of the formation.
+            Coming from Electronics and being always torn apart between Electronics and Computer Science, the ISS module was the best I choice I could make, and I will never regret choosing it. It was the bridge between the two domains and was exactly how I imagined my last semester would be. I truly feel like the focus of this year was not really on reaching expert levels in every skill, but rather know how to make all these domains work together in engineering projects. One of the most important skill this semester, in my opinion, was not a technical skill but instead a managerial and problem-solving skill. In fact, we had to integrate different problematics from completely distinct domains. To me, the term Innovative was truly illustrated by that.
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            Coming from a background in computer science, I was a little bit scared when I decided to join ISS. I was afraid that I would not be able to follow certain classes, notably in networking or physics. However, I feel like the focus was not on reaching expert levels in technical skills from other domains, but rather know how to make these domains work together in projects, and integrate everything. I think the most important skill that I learned this year was how to manage and work on a project involving problematics that don't have anything to do with each other on a technical level, but are all as important and depend on each other. It may be due to our project, who add a much bigger focus on product design and communication compared to the rest, but I really understand the Innovative part in the name of the cursus.
+            I feel like I learned a lot during this short period of time. The semester was undoubtably dense was it in terms of deliverables, deadlines, projects, and notions. I think that I had to rush some assignments due to that and it saddens me because I would have sincerely like to go deeper in each project. I think that I was not able to show everything I am able to do in so little time. I am particularly thinking about the Communication module and I feel sad because it is one of the domains where I am the least confident with, but unfortunately, I did not find time to invest myself in it as much as I would have wanted to.
         </P>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            The human sciences classes, and especially the Innovation and Psychology classes were some of my favorites of the year, allowing us to explore domains that were completely out of the technical, software oriented flavor of the rest of the year. One of the gripe I could raise is that most of the modules (except Smart Devices) were really tailored towards computer science students, so while it was pretty easy to follow them, I did not have the chance to improve my technical skills in most of them.
+            If someone asks me if I would do it again if I could, I will answer positively without hesitation. This semester was truly interesting and fun and the only thing that I regret is not having enough time to fully exploit all the projects. Having only one exam and working on so many different projects was intense and all-consuming, but also honestly satisfying. The end of the year was a real rush, especially for our Innovative project, but I am happy with how it all came out in the end. I am very grateful that had the opportunity the experience this kind of formation and I think it was a wonderful way to prepare us for the next chapter of our life.
         </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            However, I feel like with how dense the year is in terms of deliverables and deadlines, feeling competent and able to solve most of the technical problems that I faced quickly was a real asset in helping me stay organized and on top of things.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            I steel feel like I had to rush some assignments, notably in the Communication module taking place at the end of the year. It saddens me because it is one of the domains where I am the least at ease in, but unfortunately between all the other projects I did not fin time to invest myself in it as much as I would hacve wanted.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            In the end, I feel like if I had to choose which orientation to take f or my fifth year today, I would still decide to go with ISS with almost no hesitation. There were some clear issues with deliverables and timetables, but those are all minors compared to what the formation offered me. Having no exams and working on so many different topics and projects was really intense, but also really satisfying in the end. The end of the year was a real rush, especially for our Innovative project, but I am really happy with how it all came out in the end.
-        </p>
-        <br>
     </details>
 </details>
 
