@@ -21,6 +21,13 @@ SUPERVIZOR: THIERRY MONTEIL
         <br>
         <li>Predict the amount of water to deliver to the plant to achieve a certain growth rate over a given period for a given plant.</li>
     </ul>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+        You can find our Hackster.io project on the following link:
+        <a href="https://www.hackster.io/haka/keti-hackathon-smart-crop-monitoring-and-growth-management-877d14">Smart Crop Monitoring</a>
+        <br>
+        You can find our GitHub repository here:
+        <a href="https://github.com/ALievre/Hackathon">GitHub Repository Hackathon</a>
+    </p>
 </details>
 <br>
 <details>

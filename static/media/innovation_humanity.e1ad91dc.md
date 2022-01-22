@@ -49,6 +49,7 @@ SUPERVIZOR: HÉLÈNE HERENG
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             The main work was a presentation on one of the seven themes of social psychology in groups of two. These presentations were the only theoretical material we had during the class, so we had to include all the key elements while also presenting something fun and interesting. I decided to present the subject of Intercultural Relationships with a Kahoot in the end to present some fun facts. You can find the presentation in the following link:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sociability_slides.pdf">Intercultural Relationships Presentation</a>
         </p>
     </details>
     <br>
@@ -56,13 +57,15 @@ SUPERVIZOR: HÉLÈNE HERENG
         <summary style="color: #9c56c2">Creativity methods (TRIZ)</summary>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             This class also used new teaching methods. It was composed of four tutorials, each of them beginning by a small lecture followed by work on the theme of the lecture. We had to choose an object and try to innovate it by following the TRIZ creativity method. With my team partner, we chose to study the chair. You can find our report in the link below:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/creativite_report.pdf">Creativity Report</a>
         </p>
     </details>
     <br>
     <details style="text-indent: 10%;">
         <summary style="color: #9c56c2">Polling the students about their sport training course</summary>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
-            Instead of doing the sport internship because of medical issue, I had to write a report about the remarks the general opinions of the participants. I created a poll to ask the students questions about their expectations, their integration to the group, the progress of the internship, their global feelings and the possible improvements. 
+            Instead of doing the sport internship because of medical issue, I had to write a report about the remarks the general opinions of the participants. I created a poll to ask the students questions about their expectations, their integration to the group, the progress of the internship, their global feelings and the possible improvements. You can find the report in the following link:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/appn_report.pdf">APPN Report</a>
         </p>
     </details>
 </details>
@@ -74,6 +77,7 @@ SUPERVIZOR: HÉLÈNE HERENG
         <summary style="color: #9c56c2">Innovation</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             The Innovation class started with a few theoretical lectures, talking about the main concepts of innovation, project management and teamwork. The real challenge started after these, when the class started to get really close with our main project. What we had to do was to rethink our project development and strategy taking into accounts the elements we had seen. When tasked with a project, most of us jump directly to a technical solution, without paying much attention to market, user acceptability or ethics constraints. We were encouraged and took time to write reports about specific issues from the class, and in the end, we had to present the takeaways from these with our project. We did a project presentation including the advancement at the beginning of December, risk assessment issues, our time management methods and social acceptability analysis. You can watch the slides of our presentation by clicking the link below:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/innovation_slides.pdf">Innovation Presentation</a>
         </p>
     </details>
     <br>
@@ -83,7 +87,7 @@ SUPERVIZOR: HÉLÈNE HERENG
             This class consisted in tutorials where we learn the concepts of the TRIZ method, and then we apply them to a study object of our choice. However, since it is a complex method, applying it correctly was not easy. The object I chose to study is the chair. We were asked to select a simple object, because using TRIZ on a complex object is really complicated. First, we conducted spatial and temporal analysis of the object. Then, we applied it to use the TRIZ resolution matrix.
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            Applying the method gave us leads that we could apply to find concrete idea on how to improve the chair. In the end, the solution we proposed was to have a levitating chair, so the chair can be moved on every surface while staying as light as possible. You can read the full report of our case-study by clicking the link below:
+            Applying the method gave us leads that we could apply to find concrete idea on how to improve the chair. In the end, the solution we proposed was to have a levitating chair, so the chair can be moved on every surface while staying as light as possible.
         </p>
     </details>
     <br>
@@ -111,20 +115,14 @@ SUPERVIZOR: HÉLÈNE HERENG
 <br>
 <details>
     <summary style="color: #9c56c2">Analysis</summary>
+    <p>
+        You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
+    </p>
     <br>
     <details style="text-indent: 2%;">
         <summary style="color: #9c56c2">Self-evaluation with the skills matrix</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             I think that it is harder to specify the skills acquired in non-technical classes. 
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For the Manage an Innovative project skillset, I think that I obtained these skills thanks to all the projects I was part of during my entire education at INSA Toulouse. They helped me to try to innovate in each of them and taught me how to solve a problem. Having a leading position in some of them was also a benefit to learn these skills.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For the Learning teamwork skill, I can say probably the same. All the projects, and more importantly those of this year, working with students from different backgrounds, contributed to acquire the skill.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For the Be convincing skillset, they were all acquired thanks to all the oral presentations we made this semester but also during all the years at INSA Toulouse. I often thought that there were too much of them, but I can see the results anyway. It gave me much more confidence in presenting my projects and ideas to a public.
         </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #9c56c2 solid; text-align: center; margin-left: 2%;">
@@ -161,8 +159,17 @@ SUPERVIZOR: HÉLÈNE HERENG
        <td style="border: 1px #9c56c2 solid;">4</td>
        <td style="border: 1px #9c56c2 solid;">IT + PE + ST</td>
     </tr>
-    <tr style="border: 1px #9c56c2 solid; background-color: #9c56c2;">
-        <td colspan="4"></td>
+    </table>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+        For the Manage an Innovative project skillset, I think that I obtained these skills thanks to all the projects I was part of during my entire education at INSA Toulouse. They helped me to try to innovate in each of them and taught me how to solve a problem. Having a leading position in some of them was also a benefit to learn these skills.
+    </p>
+    <br>
+    <table style="border-collapse: collapse; border: 1px #9c56c2 solid; text-align: center; margin-left: 2%;">
+    <tr style="border: 1px #9c56c2 solid; background-color: #9c56c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
+       <th style="border: 1px #9c56c2 solid;">Skill</th>
+       <th style="border: 1px #9c56c2 solid;">Required level</th>
+       <th style="border: 1px #9c56c2 solid;">Self-evaluation</th>
+       <th style="border: 1px #9c56c2 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid; background-color: #abb2bf; color: #282c34" colspan="4">Learn teamwork</td>
@@ -173,8 +180,17 @@ SUPERVIZOR: HÉLÈNE HERENG
        <td style="border: 1px #9c56c2 solid;">4</td>
        <td style="border: 1px #9c56c2 solid;">IT + ST</td>
     </tr>
-    <tr style="border: 1px #9c56c2 solid; background-color: #9c56c2;">
-        <td colspan="4"></td>
+    </table>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+        For the Learning teamwork skill, I can say probably the same. All the projects, and more importantly those of this year, working with students from different backgrounds, contributed to acquire the skill.
+    </p>
+   <br>
+    <table style="border-collapse: collapse; border: 1px #9c56c2 solid; text-align: center; margin-left: 2%;">
+    <tr style="border: 1px #9c56c2 solid; background-color: #9c56c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
+       <th style="border: 1px #9c56c2 solid;">Skill</th>
+       <th style="border: 1px #9c56c2 solid;">Required level</th>
+       <th style="border: 1px #9c56c2 solid;">Self-evaluation</th>
+       <th style="border: 1px #9c56c2 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid; background-color: #abb2bf; color: #282c34" colspan="4">Be convincing: present and defend an idea</td>
@@ -204,6 +220,9 @@ SUPERVIZOR: HÉLÈNE HERENG
        <td style="border: 1px #9c56c2 solid;">IT</td>
     </tr>
     </table>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+        For the Be convincing skillset, they were all acquired thanks to all the oral presentations we made this semester but also during all the years at INSA Toulouse. I often thought that there were too much of them, but I can see the results anyway. It gave me much more confidence in presenting my projects and ideas to a public.
+    </p>
     </details>
     <br>
     <details style="text-indent: 2%;">

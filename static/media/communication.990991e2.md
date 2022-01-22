@@ -18,7 +18,7 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
     </tr>
     <tr>
        <td style="border: 1px #9599a0 solid; font-weight: bold;">Protocols for connected objects</td>
-       <td style="border: 1px #9599a0 solid;">General lectures about key protocols for IoT, based on student presentations and discussion around the main characteristics of said protocols. Deep study of the bottom two layers, especially the MAC layer for IoT. Coupled with a class about the evolution from 2G to 6G, and key future problematics IoT can create or solve.</td>
+       <td style="border: 1px #9599a0 solid;">General lectures about key protocols for IoT, based on student presentations and discussion around the main characteristics of said protocols. Deep study of the bottom two layers, especially the MAC layer for IoT. Coupled with a class about the evolution from 3G to 6G, and key future problematics IoT can create or solve.</td>
     </tr>
     <tr>
        <td style="border: 1px #9599a0 solid; font-weight: bold;">Digital wireless communication for connected objects</td>
@@ -45,6 +45,7 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             During three labs, we learned the theory behind decoding a FM signal. Then, we used GNUradio to manipulate a radio signal. The goal was to try to get the audio from a recorded radio signal. To do so, we used different treatment elements like frequency shifters, band-pass filters, frequency demodulators, and more. The signal treatment is done entirely with the software. The software is easy to use since you have blocks that you have to link together with the correct parameters. After different treatment steps, we were able to decode the signal and thus, to retrieve a clean audio signal. I think it was a clever way of doing the lab because it was exciting to try to decode the signal and very rewarding to have the result and to listen to the audio. You can consult the report on the like below:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sdr_report.pdf">SDR Report</a>
         </p>
     </details>
 </details>
@@ -58,9 +59,19 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
         <summary style="color: #9599a0">Protocols for connected objects</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             In groups of three, we had to present different protocols for Wireless Sensor Network, e.g., LoRA, Sigfox, BLE, ZigBee, NB-IoT or M2M. My group chose to study NB-IoT. It was difficult to find information about the protocol we chose. Certain characteristics were easy to understand thanks to online documentation. However, when we had to find precise information e.g., value of the radio range in a real environment, we ended up doing a lot of unsuccessful research.
+            You can find our report here:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/nbiot_report.pdf">NB-IoT Report</a>
+            <br>
+            You can see our presentation here:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/nbiot_slides.pdf">NB-IoT Presentation</a>
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
            This assignment was also challenging for me because I am not really at ease with communication and networking. Thankfully, since I was not alone to do this, I was able to understand a little bit more thanks to my teammates. Watching the presentation of other protocols also helped me understand the one I was working on a bit more, as there are a lot of similarities between the different protocols. We also conducted a deep study of the MAC layer options for IoT. This assignment was challenging for me as well. Thankfully, there are a lot of resources online that helped me understand the different concepts.
+           You can find my report here:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/maclayer_report.pdf">MAC Layer Report</a>
+            <br>
+            You can see my presentation here:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/maclayer_slides.pdf">MAC Layer Presentation</a>
         </p>
     </details>
     <br>
@@ -95,6 +106,9 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
 <br>
 <details>
     <summary style="color: #9599a0">Analysis</summary>
+    <p>
+        You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
+    </p>
     <br>
     <details style="text-indent: 2%;">
         <summary style="color: #9599a0">Self-evaluation with the skills matrix</summary>

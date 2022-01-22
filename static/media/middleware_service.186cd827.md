@@ -18,15 +18,15 @@ SUPERVIZOR: THIERRY MONTEIL
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid; font-weight: bold;">Service Oriented Architecture</td>
-       <td style="border: 1px #ffca28 solid;">Lectures, laboratories and a big project about the concepts of web services and Service Oriented Architecure (SOA). This class oversees a lot of technologies like SOAP, BPEL or REST.</td>
+       <td style="border: 1px #ffca28 solid;">Lectures, practical works and a big project about the concepts of web services and Service Oriented Architecure (SOA). This class oversees a lot of technologies like SOAP, BPEL or REST.</td>
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid; font-weight: bold;">Middleware for IoT</td>
-       <td style="border: 1px #ffca28 solid;">Lectures and laboratories about middleware options for IoT sensors and applications, with a focus on the OM2M platform, based on the OneM2M standard and developed here in Toulouse. During the labs, we had the chance to work with real sensors and see the power of OM2M with real-life applications.</td>
+       <td style="border: 1px #ffca28 solid;">Lectures and laboratories about middleware options for IoT sensors and applications, with a focus on the OM2M platform, based on the OneM2M standard. </td>
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid; font-weight: bold;">Cloud & autonomic management</td>
-       <td style="border: 1px #ffca28 solid;">This class allows us to discover the main concepts of cloud based computing, mainly talking about classic techniques such as virtualization or fog computing. Lectures followed by laboratories to practice the concepts.</td>
+       <td style="border: 1px #ffca28 solid;">Lectures allowing us to discover the main concepts of cloud based computing, mainly talking about classic techniques such as virtualization, followed by laboratories to practice the concepts.</td>
     </tr>
     </table>
     <br>
@@ -82,20 +82,14 @@ SUPERVIZOR: THIERRY MONTEIL
 <br>
 <details>
     <summary style="color: #ffca28">Analysis</summary>
+    <p>
+        You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
+    </p>
     <br>
     <details style="text-indent: 2%;">
         <summary style="color: #ffca28">Self-evaluation with the skills matrix</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             Since this module brought really new skills to me, it was really interesting to study. The different classes required a lot of computer science skills.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            The SOA class was the biggest one with a vast project. I never use Web services before but the project really helped me acquire the skills expected. My knowledge of Java also helped to implement the services. The concepts presented that I did not know about were clear and well-documented online, so I feel like I will retain these skills and be able to reuse them easily in my career.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            The Middleware for IoT class was like the SOA class as I did not know anything about what we learned in this course before. I feel that the labs and the Hackathon really helped me to learn how to use the platform. 
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            The Cloud & Autonomic Management class had the more theoretical concepts that I also did not know before. However, I feel like the lab sessions were enough for me to understand the main skills expected. Of course, I do not think that my skills are the same as those of a student coming from Computer Science but thankfully, that is not what was expected of me.
         </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #ffca28 solid; text-align: center; margin-left: 2%;">
@@ -138,8 +132,17 @@ SUPERVIZOR: THIERRY MONTEIL
        <td style="border: 1px #ffca28 solid;">4</td>
        <td style="border: 1px #ffca28 solid;">IT</td>
     </tr>
-    <tr style="border: 1px #ffca28 solid; background-color: #ffca28;">
-        <td colspan="4"></td>
+    </table>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+        The SOA class was the biggest one with a vast project. I never use Web services before but the project really helped me acquire the skills expected. My knowledge of Java also helped to implement the services. The concepts presented that I did not know about were clear and well-documented online, so I feel like I will retain these skills and be able to reuse them easily in my career.
+    </p>
+    <br>
+    <table style="border-collapse: collapse; border: 1px #ffca28 solid; text-align: center; margin-left: 2%;">
+    <tr style="border: 1px #ffca28 solid; background-color: #ffca28; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
+       <th style="border: 1px #ffca28 solid;">Skill</th>
+       <th style="border: 1px #ffca28 solid;">Required level</th>
+       <th style="border: 1px #ffca28 solid;">Self-evaluation</th>
+       <th style="border: 1px #ffca28 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Middleware for the Internet of Things</td>
@@ -174,8 +177,17 @@ SUPERVIZOR: THIERRY MONTEIL
        <td style="border: 1px #ffca28 solid;">4</td>
        <td style="border: 1px #ffca28 solid;">IT</td>
     </tr>
-    <tr style="border: 1px #ffca28 solid; background-color: #ffca28;">
-        <td colspan="4"></td>
+    </table>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+        The Middleware for IoT class was like the SOA class as I did not know anything about what we learned in this course before. I feel that the labs and the Hackathon really helped me to learn how to use the platform. 
+    </p>
+    <br>
+    <table style="border-collapse: collapse; border: 1px #ffca28 solid; text-align: center; margin-left: 2%;">
+    <tr style="border: 1px #ffca28 solid; background-color: #ffca28; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
+       <th style="border: 1px #ffca28 solid;">Skill</th>
+       <th style="border: 1px #ffca28 solid;">Required level</th>
+       <th style="border: 1px #ffca28 solid;">Self-evaluation</th>
+       <th style="border: 1px #ffca28 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Adaptability: Cloud and Autonomic Computing</td>
@@ -199,6 +211,9 @@ SUPERVIZOR: THIERRY MONTEIL
        <td style="border: 1px #ffca28 solid;">IT</td>
     </tr>
     </table>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+        The Cloud & Autonomic Management class had the more theoretical concepts that I also did not know before. However, I feel like the lab sessions were enough for me to understand the main skills expected. Of course, I do not think that my skills are the same as those of a student coming from Computer Science but thankfully, that is not what was expected of me.
+    </p>
     </details>
     <br>
     <details style="text-indent: 2%;">
