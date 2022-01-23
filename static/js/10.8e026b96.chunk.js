@@ -1,0 +1,2 @@
+(this["webpackJsonpdeveloper-portfolio-app"]=this["webpackJsonpdeveloper-portfolio-app"]||[]).push([[10],{182:function(p,o,e){p.exports=e.p+"static/media/innovation_humanity.2cf2184a.md"}}]);
+//# sourceMappingURL=10.8e026b96.chunk.js.map
