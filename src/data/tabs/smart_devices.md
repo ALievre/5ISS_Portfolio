@@ -35,13 +35,31 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
     </table>
     <br>
     <details style="text-indent: 10%;">
-        <summary style="color: #56b6c2">Deposition of nano-particles to create a gas sensor</summary>
+        <summary style="color: #56b6c2">AIME Internship</summary>
+        <figure style="text-align: center">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_GSWO3_4.jpg?raw=true"
+                title="Gas sensor"
+                height="250">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_GSWO3_1.jpg?raw=true"
+                title="Gas sensor"
+                height="250">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_GSWO3_3.jpg?raw=true"
+                title="Gas sensor"
+                height="250">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_GSWO3_8.jpg?raw=true"
+                title="Gas sensor"
+                height="250">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_GSWO3_9.jpg?raw=true"
+                title="Gas sensor"
+                height="250">
+            <figcaption>Our gas sensor</figcaption>
+        </figure>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             The first experience we had in the Smart Devices module was the internship in the AIME cleanroom. It lasted for a week, consisting in different half-day modules where we could oversee and manipulate the different processes involved in the manufacturing of a nano-particle sensor. The end goal was to make a gas sensor from Tungsten nano-particles, that expresses a variation of resistance when detecting specific gases (in our case Ethanol & Ammonia).
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             The different steps we followed to make the sensor were the following: <br><br>
-            1. &emsp; <b>Exposing the sensor circuit by photolithography:</b> without going into too much detail about the process of photolithography, we used it to engrave based on a mask on a silicium wafer. As you can see on the adjacent picture, it is a pretty complex mask containing a heating resistance, a temperature sensor, and two interdigitated combs where we will make the deposition. <br><br>
+            1. &emsp; <b>Exposing the sensor circuit by photolithography:</b> without going into too much detail about the process of photolithography, we used it to engrave based on a mask on a silicium wafer. It is a pretty complex mask containing a heating resistance, a temperature sensor, and two interdigitated combs where we will make the deposition. <br><br>
             2. &emsp; <b>Making and deposing the nano-particles:</b> the next step was to create the Tungstene nano-particles and deposit them on the engraved wafer. To do so, we followed an extremely precise chemical process, using pipettes going to a 0.05 milliliter precision.
             Once we obtained the particles, we deposited them using a process called Dielectrophoresis. What we did was we put a drop of our very diluted solution containing the nano-particles on the entire sensor circuit, and then put an electrical field only on the intergititated combs part. This resulsted in the particles only "sticking" to the desired part when we rinced the solution in water. <br><br>
             3. &emsp; <b>Caraterising the sensor for the datasheet:</b> now that we had our sensor, we tried to caracterise it by generating some I/V curves, so that all the groups could use their data to create a datasheet. <br><br> 
@@ -54,8 +72,30 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
     <br>
     <details style="text-indent: 10%;">
         <summary style="color: #56b6c2">M&OSH Project</summary>
+        <figure style="text-align: center">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_ARDUINO.jpg?raw=true"
+                title="Arduino system"
+                height="250">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_Schematic_PCB.PNG?raw=true"
+                title="Circuit"
+                height="250">
+        </figure>
+        <figure style="text-align: center">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_PCB.PNG?raw=true"
+                title="PCB Board"
+                height="250">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_PCB_3D.PNG?raw=true"
+                title="3D PCB Board"
+                height="250">
+        </figure>
+        <figure style="text-align: center">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_NODERED_dashboard_ok.PNG?raw=true"
+                title="Dashboard"
+                height="250">
+            <figcaption>M&OSH Project</figcaption>
+        </figure>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
-            In this course, we had a lot of freedom to choose what direction we wanted to take: to follow proposed labs or to start a project directly related to our gas sensor. With my project partner, Assia Nguyen, we chose to start the porject to allow us to go further in the development of our sensor. It was a great follow-through since we can now use it with a shield, connect it to The Things Network and see the data on a Node-RED dashboard. The arduino code used to retrieve and process the data was adapted for both the AIME gaz sensor and the industrial grove sensor given to us. We used a ESP32 as a microcontroller. I was very excited to start working on this project since its a culmination of what we did during the AIME internship and it showed me the complete process of making a sensor. Our work was divided into different steps:
+            In this course, we had a lot of freedom to choose what direction we wanted to take: to follow proposed labs or to start a project directly related to our gas sensor. With my project partner, Assia Nguyen, we chose to start the porject to allow us to go further in the development of our sensor. It was a great follow-through since we can now use it with a shield, connect it to The Things Network and see the data on a Node-RED dashboard. The Arduino code used to retrieve and process the data was adapted for both the AIME gaz sensor and the industrial grove sensor given to us. We used a ESP32 as a microcontroller. I was very excited to start working on this project since its a culmination of what we did during the AIME internship and it showed me the complete process of making a sensor. Our work was divided into different steps:
         </p>
         <p style="margin-left: 15%;">
             <br>
@@ -117,7 +157,6 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
     <p>
         You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
     </p>
-    <br>
     <details style="text-indent: 2%;">
         <summary style="color: #56b6c2">Self-evaluation with the skills matrix</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
@@ -125,14 +164,14 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
         </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #56b6c2 solid; text-align: center; margin-left: 2%;">
-            <tr style="border: 1px #56b6c2 solid; background-color: #56b6c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-                <th style="border: 1px #56b6c2 solid;">Skill</th>
-                <th style="border: 1px #56b6c2 solid;">Required level</th>
-                <th style="border: 1px #56b6c2 solid;">Self-evaluation</th>
-                <th style="border: 1px #56b6c2 solid;">Learning mode</th>
-            </tr>
             <tr>
-                <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Introduction to sensors</td>
+                <th style="border: 1px #56b6c2 solid; background-color: #56b6c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Introduction to sensors</td>
+            </tr>
+            <tr style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34">
+                <td style="border: 1px #56b6c2 solid;">Skill</th>
+                <td style="border: 1px #56b6c2 solid;">Required level</th>
+                <td style="border: 1px #56b6c2 solid;">Self-evaluation</th>
+                <td style="border: 1px #56b6c2 solid;">Learning mode</th>
             </tr>
             <tr>
                 <td style="border: 1px #56b6c2 solid;">Understand basic notions of sensors, data acquisition: physics, electronics and metrology point of view</td>
@@ -157,14 +196,14 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
             For the Introduction to Sensors skillset, my background in Electronics really helped me understand what was expected of me. The cleanroom sessions were well explained so we could understand every step of the process. The datasheet was more challenging to write but coming from AE helped me since I already knew how to read a datasheet.
         </p>
         <table style="border-collapse: collapse; border: 1px #56b6c2 solid; text-align: center; margin-left: 2%;">
-            <tr style="border: 1px #56b6c2 solid; background-color: #56b6c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-                <th style="border: 1px #56b6c2 solid;">Skill</th>
-                <th style="border: 1px #56b6c2 solid;">Required level</th>
-                <th style="border: 1px #56b6c2 solid;">Self-evaluation</th>
-                <th style="border: 1px #56b6c2 solid;">Learning mode</th>
-            </tr>
             <tr>
-                <td style="border: 1px #abb2bf solid;background-color: #abb2bf; color: #282c34" colspan="4">Microcontrollers and Open Source Hardware</td>
+                <th style="border: 1px #56b6c2 solid; background-color: #56b6c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Microcontrollers and Open Source Hardware</td>
+            </tr>
+            <tr style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34">
+                <td style="border: 1px #56b6c2 solid;">Skill</th>
+                <td style="border: 1px #56b6c2 solid;">Required level</th>
+                <td style="border: 1px #56b6c2 solid;">Self-evaluation</th>
+                <td style="border: 1px #56b6c2 solid;">Learning mode</th>
             </tr>
             <tr>
                 <td style="border: 1px #56b6c2 solid;">Understand microcontroller archictecture and how to use them</td>

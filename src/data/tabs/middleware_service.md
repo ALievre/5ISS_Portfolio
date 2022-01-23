@@ -85,7 +85,6 @@ SUPERVIZOR: THIERRY MONTEIL
     <p>
         You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
     </p>
-    <br>
     <details style="text-indent: 2%;">
         <summary style="color: #ffca28">Self-evaluation with the skills matrix</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
@@ -93,14 +92,14 @@ SUPERVIZOR: THIERRY MONTEIL
         </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #ffca28 solid; text-align: center; margin-left: 2%;">
-    <tr style="border: 1px #ffca28 solid; background-color: #ffca28; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-       <th style="border: 1px #ffca28 solid;">Skill</th>
-       <th style="border: 1px #ffca28 solid;">Required level</th>
-       <th style="border: 1px #ffca28 solid;">Self-evaluation</th>
-       <th style="border: 1px #ffca28 solid;">Learning mode</th>
-    </tr>
     <tr>
-       <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Service Oriented Architecture</td>
+       <th style="border: 1px #ffca28 solid; background-color: #ffca28; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Service Oriented Architecture</td>
+    </tr>
+    <tr style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34">
+       <td style="border: 1px #ffca28 solid;">Skill</th>
+       <td style="border: 1px #ffca28 solid;">Required level</th>
+       <td style="border: 1px #ffca28 solid;">Self-evaluation</th>
+       <td style="border: 1px #ffca28 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid;">Know how to define a Service Oriented Architecture</td>
@@ -138,14 +137,14 @@ SUPERVIZOR: THIERRY MONTEIL
     </p>
     <br>
     <table style="border-collapse: collapse; border: 1px #ffca28 solid; text-align: center; margin-left: 2%;">
-    <tr style="border: 1px #ffca28 solid; background-color: #ffca28; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-       <th style="border: 1px #ffca28 solid;">Skill</th>
-       <th style="border: 1px #ffca28 solid;">Required level</th>
-       <th style="border: 1px #ffca28 solid;">Self-evaluation</th>
-       <th style="border: 1px #ffca28 solid;">Learning mode</th>
-    </tr>
     <tr>
-       <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Middleware for the Internet of Things</td>
+       <th style="border: 1px #ffca28 solid; background-color: #ffca28; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Middleware for the Internet of Things</td>
+    </tr>
+    <tr style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34">
+       <td style="border: 1px #ffca28 solid;">Skill</th>
+       <td style="border: 1px #ffca28 solid;">Required level</th>
+       <td style="border: 1px #ffca28 solid;">Self-evaluation</th>
+       <td style="border: 1px #ffca28 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid;">Know how to situate the main standards for the IoT</td>
@@ -183,14 +182,14 @@ SUPERVIZOR: THIERRY MONTEIL
     </p>
     <br>
     <table style="border-collapse: collapse; border: 1px #ffca28 solid; text-align: center; margin-left: 2%;">
-    <tr style="border: 1px #ffca28 solid; background-color: #ffca28; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-       <th style="border: 1px #ffca28 solid;">Skill</th>
-       <th style="border: 1px #ffca28 solid;">Required level</th>
-       <th style="border: 1px #ffca28 solid;">Self-evaluation</th>
-       <th style="border: 1px #ffca28 solid;">Learning mode</th>
-    </tr>
     <tr>
-       <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Adaptability: Cloud and Autonomic Computing</td>
+       <th style="border: 1px #ffca28 solid; background-color: #ffca28; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Adaptability: Cloud and Autonomic Computing</td>
+    </tr>
+    <tr style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34">
+       <td style="border: 1px #ffca28 solid;">Skill</th>
+       <td style="border: 1px #ffca28 solid;">Required level</th>
+       <td style="border: 1px #ffca28 solid;">Self-evaluation</th>
+       <td style="border: 1px #ffca28 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid;">Understand the concept of cloud computing</td>

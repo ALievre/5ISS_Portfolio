@@ -83,12 +83,24 @@ SUPERVIZOR: HÉLÈNE HERENG
     <br>
     <details style="text-indent: 2%;">
         <summary style="color: #9c56c2">Creativity methods (TRIZ)</summary>
+        <figure style="text-align: center">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/creativite_scurve.PNG?raw=true"
+                title="Levitating chair"
+                height="250">
+            <figcaption>Our case-study of the chair</figcaption>
+        </figure>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             This class consisted in tutorials where we learn the concepts of the TRIZ method, and then we apply them to a study object of our choice. However, since it is a complex method, applying it correctly was not easy. The object I chose to study is the chair. We were asked to select a simple object, because using TRIZ on a complex object is really complicated. First, we conducted spatial and temporal analysis of the object. Then, we applied it to use the TRIZ resolution matrix.
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             Applying the method gave us leads that we could apply to find concrete idea on how to improve the chair. In the end, the solution we proposed was to have a levitating chair, so the chair can be moved on every surface while staying as light as possible.
         </p>
+        <figure style="text-align: center">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/creativite_principe.PNG?raw=true"
+                title="Levitating chair"
+                height="250">
+            <figcaption>Our solution: a levitating chair</figcaption>
+        </figure>
     </details>
     <br>
     <details style="text-indent: 2%;">
@@ -118,7 +130,6 @@ SUPERVIZOR: HÉLÈNE HERENG
     <p>
         You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
     </p>
-    <br>
     <details style="text-indent: 2%;">
         <summary style="color: #9c56c2">Self-evaluation with the skills matrix</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
@@ -126,14 +137,14 @@ SUPERVIZOR: HÉLÈNE HERENG
         </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #9c56c2 solid; text-align: center; margin-left: 2%;">
-    <tr style="border: 1px #9c56c2 solid; background-color: #9c56c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-       <th style="border: 1px #9c56c2 solid;">Skill</th>
-       <th style="border: 1px #9c56c2 solid;">Required level</th>
-       <th style="border: 1px #9c56c2 solid;">Self-evaluation</th>
-       <th style="border: 1px #9c56c2 solid;">Learning mode</th>
-    </tr>
     <tr>
-       <td style="border: 1px #9c56c2 solid; background-color: #abb2bf; color: #282c34" colspan="4">Manage an innovative project</td>
+       <th style="border: 1px #9c56c2 solid; background-color: #9c56c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Manage an innovative project</td>
+    </tr>
+    <tr style="border: 1px #9c56c2 solid; background-color: #abb2bf; color: #282c34">
+       <td style="border: 1px #9c56c2 solid;">Skill</th>
+       <td style="border: 1px #9c56c2 solid;">Required level</th>
+       <td style="border: 1px #9c56c2 solid;">Self-evaluation</th>
+       <td style="border: 1px #9c56c2 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid;">Solve a problem in a creative way</td>
@@ -165,14 +176,14 @@ SUPERVIZOR: HÉLÈNE HERENG
     </p>
     <br>
     <table style="border-collapse: collapse; border: 1px #9c56c2 solid; text-align: center; margin-left: 2%;">
-    <tr style="border: 1px #9c56c2 solid; background-color: #9c56c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-       <th style="border: 1px #9c56c2 solid;">Skill</th>
-       <th style="border: 1px #9c56c2 solid;">Required level</th>
-       <th style="border: 1px #9c56c2 solid;">Self-evaluation</th>
-       <th style="border: 1px #9c56c2 solid;">Learning mode</th>
-    </tr>
     <tr>
-       <td style="border: 1px #9c56c2 solid; background-color: #abb2bf; color: #282c34" colspan="4">Learn teamwork</td>
+       <th style="border: 1px #9c56c2 solid; background-color: #9c56c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Learn teamwork</td>
+    </tr>
+    <tr style="border: 1px #9c56c2 solid; background-color: #abb2bf; color: #282c34">
+       <td style="border: 1px #9c56c2 solid;">Skill</th>
+       <td style="border: 1px #9c56c2 solid;">Required level</th>
+       <td style="border: 1px #9c56c2 solid;">Self-evaluation</th>
+       <td style="border: 1px #9c56c2 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid;">Multi-disciplinary students work as a team</td>
@@ -186,14 +197,14 @@ SUPERVIZOR: HÉLÈNE HERENG
     </p>
    <br>
     <table style="border-collapse: collapse; border: 1px #9c56c2 solid; text-align: center; margin-left: 2%;">
-    <tr style="border: 1px #9c56c2 solid; background-color: #9c56c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-       <th style="border: 1px #9c56c2 solid;">Skill</th>
-       <th style="border: 1px #9c56c2 solid;">Required level</th>
-       <th style="border: 1px #9c56c2 solid;">Self-evaluation</th>
-       <th style="border: 1px #9c56c2 solid;">Learning mode</th>
-    </tr>
     <tr>
-       <td style="border: 1px #9c56c2 solid; background-color: #abb2bf; color: #282c34" colspan="4">Be convincing: present and defend an idea</td>
+       <th style="border: 1px #9c56c2 solid; background-color: #9c56c2; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Be convincing: present and defend an idea</td>
+    </tr>
+    <tr style="border: 1px #9c56c2 solid; background-color: #abb2bf; color: #282c34">
+       <td style="border: 1px #9c56c2 solid;">Skill</th>
+       <td style="border: 1px #9c56c2 solid;">Required level</th>
+       <td style="border: 1px #9c56c2 solid;">Self-evaluation</th>
+       <td style="border: 1px #9c56c2 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid;">Express and exchange hypotheses</td>

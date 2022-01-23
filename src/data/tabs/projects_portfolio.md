@@ -32,10 +32,25 @@ SUPERVIZOR: VINCENT MIGLIORE
     <br>
     <details style="text-indent: 10%;">
         <summary style="color: #42a5f5">RTK, you are not lost!</summary>
+        <figure style="text-align: center">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_materiel.PNG?raw=true"
+                title="Our equipment"
+                height="250">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_archi.PNG?raw=true"
+                title="Our solution"
+                height="250">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_firebase.PNG?raw=true"
+                title="Our database"
+                height="250">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_website.PNG?raw=true"
+                title="Our website"
+                height="250">
+            <figcaption>RTK Project</figcaption>
+        </figure>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             Everyone is used to standard GPS geopositioning in their car, in their phone or in their computer. Standard GPS receivers have an accuracy between 2 to 10 meters, and only in outdoor conditions. As a group of 5 students, we teamed up to answer a problem raised by our tutor, professor Guillaume Auriol: to geolocate meteorological balloons in association with a Paul Sabatier team led by Professor Hassan Sabbah. As you can guess, the standard GPS is not accurate enough to precisely locate the balloon. So, our tutor was interested in a Real-Time Kinetics (RTK) solution since its accuracy is far more precise. The launch of the ArduSimple starter kit LR offered a relatively low-cost RTK module. Therefore, the aim of our project is to assess this solution to see if it is compatible with the needs of the project. As you can in the picture below, we were in possession of an ArduSimple starter kit LR composed of:
         </p>
-        <ul style="text-align: justify;">
+        <ul style="margin-left: 10%; text-align: justify;">
             <li>2 simpleRTK2B boards (Rover and Base Station)</li>
             <br>
             <li>2 Radio Modules LR (Long Range) with Xbee + 2 radio antennas</li>
@@ -44,6 +59,22 @@ SUPERVIZOR: VINCENT MIGLIORE
             <br>
             <li>Base and Rover preconfiguration</li>
         </ul>
+        <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+            You can find our GitHub repository in the following link:
+            <a href="https://github.com/ALievre/RTK_project">RTK Project</a>
+        </p>
+        <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+            You can also read our report in the following link:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/rtk_report.pdf">RTK Project Report</a>
+        </p>
+        <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+            Here, you can find our presentation:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/rtk_slides.pdf">RTK Project Presentation</a>
+        </p>
+        <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+            Finally, you can find our demo video on Youtube:
+            <a href="https://www.youtube.com/watch?v=SnIFUUjsiBk">RTK Project Demo Video</a>
+        </p>
     </details>
 </details>
 <br>
@@ -86,7 +117,6 @@ SUPERVIZOR: VINCENT MIGLIORE
     <p>
         You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
     </p>
-    <br>
     <details style="text-indent: 2%;">
         <summary style="color: #42a5f5">Self-evaluation with the skills matrix</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
@@ -94,14 +124,14 @@ SUPERVIZOR: VINCENT MIGLIORE
         </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #42a5f5 solid; text-align: center; margin-left: 2%;">
-        <tr style="border: 1px #42a5f5 solid; background-color: #42a5f5; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-            <th style="border: 1px #42a5f5 solid;">Skill</th>
-            <th style="border: 1px #42a5f5 solid;">Required level</th>
-            <th style="border: 1px #42a5f5 solid;">Self-evaluation</th>
-            <th style="border: 1px #42a5f5 solid;">Learning mode</th>
-        </tr>
         <tr>
-            <td style="border: 1px #42a5f5 solid; background-color: #abb2bf; color: #282c34" colspan="4">Innovative Project</td>
+            <th style="border: 1px #42a5f5 solid; background-color: #42a5f5; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Innovative Project</td>
+        </tr>
+        <tr style="border: 1px #42a5f5 solid; background-color: #abb2bf; color: #282c34">
+            <td style="border: 1px #42a5f5 solid;">Skill</th>
+            <td style="border: 1px #42a5f5 solid;">Required level</th>
+            <td style="border: 1px #42a5f5 solid;">Self-evaluation</th>
+            <td style="border: 1px #42a5f5 solid;">Learning mode</th>
         </tr>
         <tr>
             <td style="border: 1px #42a5f5 solid;">Analyse a real-life problem</td>
@@ -138,14 +168,14 @@ SUPERVIZOR: VINCENT MIGLIORE
             I was really invested in the Innovative project because I was interested in the subject. It was full of challenges, but we managed to overcome them all and even going further than I even would have imagined at the beginning of the semester. Thus, I am very proud of my team for doing so. With this project, I feel that I truly improved my technical skills but also my presentation and communication skills. 
         </p>
         <table style="border-collapse: collapse; border: 1px #42a5f5 solid; text-align: center; margin-left: 2%;">
-        <tr style="border: 1px #42a5f5 solid; background-color: #42a5f5; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-            <th style="border: 1px #42a5f5 solid;">Skill</th>
-            <th style="border: 1px #42a5f5 solid;">Required level</th>
-            <th style="border: 1px #42a5f5 solid;">Self-evaluation</th>
-            <th style="border: 1px #42a5f5 solid;">Learning mode</th>
-        </tr>
         <tr>
-            <td style="border: 1px #42a5f5 solid; background-color: #abb2bf; color: #282c34" colspan="4">Self Evaluation with Portfolio</td>
+            <th style="border: 1px #42a5f5 solid; background-color: #42a5f5; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Self Evaluation with Portfolio</td>
+        </tr>
+        <tr style="border: 1px #42a5f5 solid; background-color: #abb2bf; color: #282c34">
+            <td style="border: 1px #42a5f5 solid;">Skill</th>
+            <td style="border: 1px #42a5f5 solid;">Required level</th>
+            <td style="border: 1px #42a5f5 solid;">Self-evaluation</th>
+            <td style="border: 1px #42a5f5 solid;">Learning mode</th>
         </tr>
         <tr>
             <td style="border: 1px #42a5f5 solid;">Reflect upon my training process and methods</td>

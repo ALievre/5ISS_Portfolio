@@ -8,6 +8,18 @@ SUPERVIZOR: THIERRY MONTEIL
 
 <details>
     <summary style="color: #36874a">Description</summary>
+    <figure style="text-align: center">
+        <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/hackathon_circuit.PNG?raw=true"
+            title="Our system"
+            height="250">
+        <figcaption>Our system</figcaption>
+    </figure>
+    <figure style="text-align: center">
+        <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/hackathon_dashboard.PNG?raw=true"
+            title="Levitating chair"
+            height="250">
+        <figcaption>Our dashboard</figcaption>
+    </figure>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
        This Hackathon had international participants from Korea, India, Spain, Germany, USA, and France. It lasted one month from the 30th of September to the 4th of November. The deliverables were a huckster.io project describing the IoT solution we produced and a short demo video. The subject of this event was to build and IoT solution helping citizens with social or environmental issues using the oneM2M standard. Thus, it was a project with a close link to the Middleware & Service module.
     </p>
@@ -32,7 +44,6 @@ SUPERVIZOR: THIERRY MONTEIL
 <br>
 <details>
     <summary style="color: #36874a">Technical challenges</summary>
-     <br>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
         During this Hackathon, we encountered many challenges:
     </p>
@@ -45,7 +56,6 @@ SUPERVIZOR: THIERRY MONTEIL
 <br>
 <details>
     <summary style="color: #36874a">Analysis</summary>
-    <br>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
         This project was undoubtedly stimulating. It was nice to work on a big project, with all the equipment at our disposal and on a subject that we cared about. Once again, that is the kind of project I expected to have in ISS. Moreover, having a team composed of students from different background was very refreshing. Working on every aspect of an engineering project was very rewarding.
     </p>

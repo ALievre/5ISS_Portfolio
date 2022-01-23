@@ -72,7 +72,6 @@ SUPERVIZOR: NAWAL GUERMOUCHE
     <p>
         You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
     </p>
-    <br>
     <details style="text-indent: 2%;">
         <summary style="color: #98c379">Self-evaluation with the skills matrix</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
@@ -80,14 +79,14 @@ SUPERVIZOR: NAWAL GUERMOUCHE
         </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #98c379 solid; text-align: center; margin-left: 2%;">
-    <tr style="border: 1px #98c379 solid; background-color: #98c379; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-       <th style="border: 1px #98c379 solid;">Skill</th>
-       <th style="border: 1px #98c379 solid;">Required level</th>
-       <th style="border: 1px #98c379 solid;">Self-evaluation</th>
-       <th style="border: 1px #98c379 solid;">Learning mode</th>
-    </tr>
     <tr>
-       <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Software Engineering</td>
+       <th style="border: 1px #98c379 solid; background-color: #98c379; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Software Engineering</td>
+    </tr>
+    <tr style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34">
+       <td style="border: 1px #98c379 solid;">Skill</th>
+       <td style="border: 1px #98c379 solid;">Required level</th>
+       <td style="border: 1px #98c379 solid;">Self-evaluation</th>
+       <td style="border: 1px #98c379 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #98c379 solid;">Define the different phases in software development</td>
@@ -113,14 +112,14 @@ SUPERVIZOR: NAWAL GUERMOUCHE
     </p>
    <br>
     <table style="border-collapse: collapse; border: 1px #98c379 solid; text-align: center; margin-left: 2%;">
-    <tr style="border: 1px #98c379 solid; background-color: #98c379; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-       <th style="border: 1px #98c379 solid;">Skill</th>
-       <th style="border: 1px #98c379 solid;">Required level</th>
-       <th style="border: 1px #98c379 solid;">Self-evaluation</th>
-       <th style="border: 1px #98c379 solid;">Learning mode</th>
-    </tr>
     <tr>
-       <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Processing Semantic Data</td>
+       <th style="border: 1px #98c379 solid; background-color: #98c379; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Processing Semantic Data</td>
+    </tr>
+    <tr style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34">
+       <td style="border: 1px #98c379 solid;">Skill</th>
+       <td style="border: 1px #98c379 solid;">Required level</th>
+       <td style="border: 1px #98c379 solid;">Self-evaluation</th>
+       <td style="border: 1px #98c379 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #98c379 solid;">Design and understand a model for an application</td>
@@ -146,14 +145,14 @@ SUPERVIZOR: NAWAL GUERMOUCHE
     </p>
     <br>
     <table style="border-collapse: collapse; border: 1px #98c379 solid; text-align: center; margin-left: 2%;">
-    <tr style="border: 1px #98c379 solid; background-color: #98c379; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-       <th style="border: 1px #98c379 solid;">Skill</th>
-       <th style="border: 1px #98c379 solid;">Required level</th>
-       <th style="border: 1px #98c379 solid;">Self-evaluation</th>
-       <th style="border: 1px #98c379 solid;">Learning mode</th>
-    </tr>
     <tr>
-       <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Data Processing and Analysis: Big Data</td>
+       <th style="border: 1px #98c379 solid; background-color: #98c379; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Data Processing and Analysis: Big Data</td>
+    </tr>
+    <tr style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34">
+       <td style="border: 1px #98c379 solid;">Skill</th>
+       <td style="border: 1px #98c379 solid;">Required level</th>
+       <td style="border: 1px #98c379 solid;">Self-evaluation</th>
+       <td style="border: 1px #98c379 solid;">Learning mode</th>
     </tr>
     <tr>
        <td style="border: 1px #98c379 solid;">Know how to explore and represent data sets</td>

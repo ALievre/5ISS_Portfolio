@@ -9,7 +9,7 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
 <details>
     <summary style="color: #9599a0">Description</summary>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-        The communication module gathers five classes This module is very dense since it deals with a lot of subjects all centered around the Internet of Things. IoT have many problematics: battery, wireless communication, or security. These problematics are studied in the classes of this module. We have the full picture of communication for IoT. You can find a quick summary of the courses content in the adjacent table. The next subsection will focus on one of the most relevant experiences: the Software Defined Radio (SDR) labs.
+        The communication module gathers five classes This module is very dense since it deals with a lot of subjects all centered around the Internet of Things. IoT have many problematics: battery, wireless communication, or security. These problematics are studied in the classes of this module. We have the full picture of communication for IoT. You can find a quick summary of the courses content in the adjacent table. The next subsection will focus on one of the most relevant experiences: the Software Defined Radio (SDR) labs and the Energy labs at AIME.
     </p>
     <table style="border-collapse: collapse; border: 1px #9599a0 solid; text-align: center; margin-left: 2%;">
     <tr style="border: 1px #9599a0 solid; background-color: #9599a0; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
@@ -46,6 +46,28 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             During three labs, we learned the theory behind decoding a FM signal. Then, we used GNUradio to manipulate a radio signal. The goal was to try to get the audio from a recorded radio signal. To do so, we used different treatment elements like frequency shifters, band-pass filters, frequency demodulators, and more. The signal treatment is done entirely with the software. The software is easy to use since you have blocks that you have to link together with the correct parameters. After different treatment steps, we were able to decode the signal and thus, to retrieve a clean audio signal. I think it was a clever way of doing the lab because it was exciting to try to decode the signal and very rewarding to have the result and to listen to the audio. You can consult the report on the like below:
             <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sdr_report.pdf">SDR Report</a>
+        </p>
+    </details>
+    <br>
+    <details style="text-indent: 10%;">
+        <summary style="color: #9599a0">Energy for connected objects labs at AIME</summary>
+        <figure style="text-align: center">
+        <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_SUPERCAPA_1.jpg?raw=true"
+            title="Supercapacitor"
+            height="250">
+        <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_SUPERCAPA_2.jpg?raw=true"
+            title="Supercapacitor"
+            height="250">
+        <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_SUPERCAPA_3.jpg?raw=true"
+            title="Supercapacitor"
+            height="250">
+        <figcaption>Our supercapacitor</figcaption>
+    </figure>
+        <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+            a
+        </p>
+        <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+            a
         </p>
     </details>
 </details>
@@ -109,7 +131,6 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
     <p>
         You can find explications on how to read the skills matrix by clicking on the table icon in the left bar.
     </p>
-    <br>
     <details style="text-indent: 2%;">
         <summary style="color: #9599a0">Self-evaluation with the skills matrix</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
@@ -123,14 +144,14 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
         </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #9599a0 solid; text-align: center; margin-left: 2%;">
-            <tr style="border: 1px #9599a0 solid; background-color: #9599a0; color: #282c34; font-weight: bold;text-align: center; padding: 10px;">
-                <th style="border: 1px #9599a0 solid;">Skill</th>
-                <th style="border: 1px #9599a0 solid;">Required level</th>
-                <th style="border: 1px #9599a0 solid;">Self-evaluation</th>
-                <th style="border: 1px #9599a0 solid;">Learning mode</th>
-            </tr>
             <tr>
-                <td style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34" colspan="4">Protocols & Communication</td>
+                <th style="border: 1px #9599a0 solid; background-color: #9599a0; color: #282c34; font-weight: bold;text-align: center; padding: 10px;" colspan="4">Protocols & Communication</td>
+            </tr>
+            <tr style="border: 1px #abb2bf solid; background-color: #abb2bf; color: #282c34">
+                <td style="border: 1px #9599a0 solid;">Skill</th>
+                <td style="border: 1px #9599a0 solid;">Required level</th>
+                <td style="border: 1px #9599a0 solid;">Self-evaluation</th>
+                <td style="border: 1px #9599a0 solid;">Learning mode</th>
             </tr>
             <tr>
                 <td style="border: 1px #9599a0 solid;">Understand and master the new mobile networks technologies</td>
