@@ -234,6 +234,20 @@ SUPERVISOR: HÉLÈNE HERENG
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
         For the Be convincing skillset, they were all acquired thanks to all the oral presentations we made this semester but also during all the years at INSA Toulouse. I often thought that there were too much of them, but I can see the results anyway. It gave me much more confidence in presenting my projects and ideas to a public.
     </p>
+    <p>
+        I can summarize the skills I acquired with this module:
+    </p>
+    <ul>
+        <li>Understand the concept of innovation</li>
+        <li>Understand the concept of the TRIZ creativity method</li>
+        <li>Understand the concepts of Social Psychology</li>
+        <li>Understand the concept of Team Management</li>
+        <li>Use the TRIZ creativity method</li>
+        <li>Lead a project</li>
+        <li>Teamwork</li>
+        <li>Present and defend an idea</li>
+        <li>Solve a problem</li>
+    </ul>
     </details>
     <br>
     <details style="text-indent: 2%;">

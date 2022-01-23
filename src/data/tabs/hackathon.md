@@ -68,6 +68,17 @@ SUPERVISOR: THIERRY MONTEIL
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
         Overall, it was a very good experience but a little bit tarnished by the lack of time.
     </p>
+    <p>
+        I can summarize the skills I acquired with this module:
+    </p>
+    <ul>
+        <li>Use the oneM2M platform</li>
+        <li>Create a Node-RED dashboard</li>
+        <li>Conceive a circuit with a lot of sensors</li>
+        <li>Deploy a gateway on a Raspberry Pi</li>
+        <li>Use the Fritzing software to design a circuit</li>
+        <li>Use an ESP32 to control sensors and send data</li>
+    </ul>
 </details>
 
 <p>-oneM2M Hackathon-</p>
