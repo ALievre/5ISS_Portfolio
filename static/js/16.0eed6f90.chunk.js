@@ -1,2 +1,0 @@
-(this["webpackJsonpdeveloper-portfolio-app"]=this["webpackJsonpdeveloper-portfolio-app"]||[]).push([[16],{187:function(p,e,o){p.exports=o.p+"static/media/smart_devices.7fdd4def.md"}}]);
-//# sourceMappingURL=16.0eed6f90.chunk.js.map
