@@ -31,7 +31,7 @@ SUPERVISOR: THIERRY MONTEIL
     </table>
     <br>
     <details style="text-indent: 10%;">
-        <summary style="color: #ffca28">Service Oriented Architecture & OM2M project</summary>
+        <summary style="color: #ffca28">Service Oriented Architecture Project</summary>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             The main project of this module was the Service Oriented Architecture (SOA) project. It had an interesting premise, because it aimed to bring together the skills learned in both the SOA and OM2M classes into one big project. Unfortunately, we did not have time to use OM2M to simulate the sensors, so we directly simulated them in our Java application.
         </p>
@@ -47,11 +47,16 @@ SUPERVISOR: THIERRY MONTEIL
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             This project was linked to the Software Engineering class of the Analysis & Data Processing module. We used the Agile method to plan the project, with three sprints of three weeks followed by a team of two students.
         </p>
+        <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+            You can find our report here: 
+            <a style="color: #ffca28" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/soa_report.pdf">SOA Report</a>
+        </p>
     </details>
 </details>
 <br>
 <details>
     <summary style="color: #ffca28">Technical challenges</summary>
+    <br>
     <details style="text-indent: 2%;">
         <summary style="color: #ffca28">Service Oriented Architecture</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
@@ -76,6 +81,10 @@ SUPERVISOR: THIERRY MONTEIL
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             Even if I already used VirtualBox to create Linux virtual machines on my Windows laptop, it was very different using them during the labs. But the main challenge for me was to understand the differences between hosted/bare virtual machines and containers. Moreover, OpenStack was a bit difficult at first for me to use. The creation of more complex network topologies was not easy to comprehend at first. It was interesting to change routes between virtual networks and see connectivity between machines that were not on a physical network but on a virtual one. We had to use this method to set up a calculator application, with the front-end of the app accessible from the outside world on a public network, and then all the back-end services hidden in another local network, linked with a virtual gateway.
+        </p>
+        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+            You can find our report here: 
+            <a style="color: #ffca28" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/cloud_report.pdf">Cloud Report</a>
         </p>
     </details>
 </details>

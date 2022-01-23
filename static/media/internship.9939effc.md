@@ -58,10 +58,10 @@
     </p>
     <p style="margin-left: 2%; text-align: justify;">
         You can find my poster on the following link:
-        <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/vitesco_poster.pdf">Internship Poster</a>
+        <a style="color: #f0e613" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/vitesco_poster.pdf">Internship Poster</a>
         <br>
         You can find presentation here:
-        <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/vitesco_slides.pdf">Internship Presentation</a>
+        <a style="color: #f0e613" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/vitesco_slides.pdf">Internship Presentation</a>
     </p>
 </details>
 <br>

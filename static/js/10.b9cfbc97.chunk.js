@@ -1,2 +1,0 @@
-(this["webpackJsonpdeveloper-portfolio-app"]=this["webpackJsonpdeveloper-portfolio-app"]||[]).push([[10],{182:function(e,p,o){e.exports=o.p+"static/media/middleware_service.4ebfc5ce.md"}}]);
-//# sourceMappingURL=10.b9cfbc97.chunk.js.map

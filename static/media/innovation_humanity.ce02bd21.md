@@ -49,7 +49,7 @@ SUPERVISOR: HÉLÈNE HERENG
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             The main work was a presentation on one of the seven themes of social psychology in groups of two. These presentations were the only theoretical material we had during the class, so we had to include all the key elements while also presenting something fun and interesting. I decided to present the subject of Intercultural Relationships with a Kahoot in the end to present some fun facts. You can find the presentation in the following link:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sociability_slides.pdf">Intercultural Relationships Presentation</a>
+            <a style="color: #9c56c2" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sociability_slides.pdf">Intercultural Relationships Presentation</a>
         </p>
     </details>
     <br>
@@ -57,7 +57,7 @@ SUPERVISOR: HÉLÈNE HERENG
         <summary style="color: #9c56c2">Creativity methods (TRIZ)</summary>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             This class also used new teaching methods. It was composed of four tutorials, each of them beginning by a small lecture followed by work on the theme of the lecture. We had to choose an object and try to innovate it by following the TRIZ creativity method. With my team partner, we chose to study the chair. You can find our report in the link below:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/creativite_report.pdf">Creativity Report</a>
+            <a style="color: #9c56c2" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/creativite_report.pdf">Creativity Report</a>
         </p>
     </details>
     <br>
@@ -65,7 +65,7 @@ SUPERVISOR: HÉLÈNE HERENG
         <summary style="color: #9c56c2">Polling the students about their sport training course</summary>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             Instead of doing the sport internship because of medical issue, I had to write a report about the general opinions of the participants. I created a poll to ask the students questions about their expectations, their integration to the group, the progress of the internship, their global feelings and the possible improvements. You can find the report in the following link:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/appn_report.pdf">APPN Report</a>
+            <a style="color: #9c56c2" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/appn_report.pdf">APPN Report</a>
         </p>
     </details>
 </details>
@@ -77,14 +77,14 @@ SUPERVISOR: HÉLÈNE HERENG
         <summary style="color: #9c56c2">Innovation</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             The Innovation class started with a few theoretical lectures, talking about the main concepts of innovation, project management and teamwork. The real challenge started after these, when the class started to get really close with our main project. What we had to do was to rethink our project development and strategy taking into accounts the elements we had seen. When tasked with a project, most of us jump directly to a technical solution, without paying much attention to market, user acceptability or ethics constraints. We were encouraged and took time to write reports about specific issues from the class, and in the end, we had to present the takeaways from these with our project. We did a project presentation including the advancement at the beginning of December, risk assessment issues, our time management methods and social acceptability analysis. You can watch the slides of our presentation by clicking the link below:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/innovation_slides.pdf">Innovation Presentation</a>
+            <a style="color: #9c56c2" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/innovation_slides.pdf">Innovation Presentation</a>
         </p>
     </details>
     <br>
     <details style="text-indent: 2%;">
         <summary style="color: #9c56c2">Creativity methods (TRIZ)</summary>
         <figure style="text-align: center">
-            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/creativite_scurve.PNG?raw=true"
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/creativite_scurve.png?raw=true"
                 title="Levitating chair"
                 height="250">
             <figcaption>Our case-study of the chair</figcaption>
@@ -96,7 +96,7 @@ SUPERVISOR: HÉLÈNE HERENG
             Applying the method gave us leads that we could apply to find concrete idea on how to improve the chair. In the end, the solution we proposed was to have a levitating chair, so the chair can be moved on every surface while staying as light as possible.
         </p>
         <figure style="text-align: center">
-            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/creativite_principe.PNG?raw=true"
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/creativite_principe.png?raw=true"
                 title="Levitating chair"
                 height="250">
             <figcaption>Our solution: a levitating chair</figcaption>
