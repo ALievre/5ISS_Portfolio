@@ -60,6 +60,9 @@ SUPERVISOR: THIERRY MONTEIL
         This project was undoubtedly stimulating. It was nice to work on a big project, with all the equipment at our disposal and on a subject that we cared about. Once again, that is the kind of project I expected to have in ISS. Moreover, having a team composed of students from different background was very refreshing. Working on every aspect of an engineering project was very rewarding.
     </p>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+        Coming from an Electronics background, I was in charge of the hardware parts of the project. In the end, I also participated in all the other parts. I made modifications in the gateway and deployed it on the Raspberry Pi. I also made the Node-RED dashboard, tested the whole system and participated in the making of the demo video. Since I worked on the whole project (on the hardware, on the gateway and oneM2M platform, and on the dashboard), I can say that I acquired all the skills corresponding to these parts. I think I apprehended all the technical implications. 
+    </p>
+    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
         The only downside was the time allocated to do the project. The deadline was set by the organizers but not knowing early that we will have to participate in a Hackathon did not prepare us. In addition, being required to team with students with different background was a really good idea but it would have been better if we knew it ahead of time. In fact, we did not really know each other so we randomly formed the teams.
     </p>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
