@@ -127,6 +127,19 @@
           ]
         },
         {
+          "courseName": "Project Website",
+          "sections": [
+            {
+              "title": "Link",
+              "url": "https://rtk-not-lost.web.app/",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
           "courseName": "Demo Video",
           "sections": [
             {
