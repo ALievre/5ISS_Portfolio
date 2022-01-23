@@ -35,10 +35,10 @@ SUPERVISOR: THIERRY MONTEIL
     </ul>
     <p style="margin-left: 2%; text-align: justify;">
         You can find our Hackster.io project on the following link:
-        <a href="https://www.hackster.io/haka/keti-hackathon-smart-crop-monitoring-and-growth-management-877d14">Smart Crop Monitoring</a>
+        <a style="color: #36874a" href="https://www.hackster.io/haka/keti-hackathon-smart-crop-monitoring-and-growth-management-877d14">Smart Crop Monitoring</a>
         <br>
         You can find our GitHub repository here:
-        <a href="https://github.com/ALievre/Hackathon">GitHub Repository Hackathon</a>
+        <a style="color: #36874a" href="https://github.com/ALievre/Hackathon">GitHub Repository Hackathon</a>
     </p>
 </details>
 <br>

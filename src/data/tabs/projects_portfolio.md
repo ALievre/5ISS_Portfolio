@@ -64,19 +64,23 @@ SUPERVISOR: VINCENT MIGLIORE
         </p>
         <p style="margin-left: 10%; text-align: justify;">
             You can find our GitHub repository in the following link:
-            <a href="https://github.com/ALievre/RTK_project">RTK Project</a>
+            <a style="color: #42a5f5" href="https://github.com/ALievre/RTK_project">RTK Project</a>
         </p>
         <p style="margin-left: 10%; text-align: justify;">
             You can also read our report in the following link:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/rtk_report.pdf">RTK Project Report</a>
+            <a style="color: #42a5f5" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/rtk_report.pdf">RTK Project Report</a>
         </p>
         <p style="margin-left: 10%; text-align: justify;">
             Here, you can find our presentation:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/rtk_slides.pdf">RTK Project Presentation</a>
+            <a style="color: #42a5f5" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/rtk_slides.pdf">RTK Project Presentation</a>
+        </p>
+        <p style="margin-left: 10%; text-align: justify;">
+            Here, you can find our website:
+            <a style="color: #42a5f5" href="https://rtk-not-lost.web.app/">RTK Project Website</a>
         </p>
         <p style="margin-left: 10%; text-align: justify;">
             Finally, you can find our demo video on Youtube:
-            <a href="https://www.youtube.com/watch?v=SnIFUUjsiBk">RTK Project Demo Video</a>
+            <a style="color: #42a5f5" href="https://www.youtube.com/watch?v=SnIFUUjsiBk">RTK Project Demo Video</a>
         </p>
     </details>
 </details>

@@ -147,7 +147,6 @@ SUPERVISOR: JÉRÉMIE GRISOLIA
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             The Analog electronics labs were here to help us design the analog signal treatment part to exploit the values coming from our gas sensor. As said previously, the sensor's output is a resistance variation, which can be expressed as a current variation by imposing V (the tension). However, this current is really small, at about 100 nA, and we cannot measure it directly. So, we had to create a signal processing circuit to move the signal in a tension 1.1V to 5V, which corresponds to the range of the ADC of the Arduino Uno.
             Designing the circuit was pretty challenging, involving signal processing notions and filters that we had not used in a long time. Fortunately, we used the tool LTSpice, an electronics circuits simulator, to help us iterate over prototypes and test our results.
-            All the information about this class and the labs subjects can be found here.
         </p>
     </details>
 </details>
