@@ -1,2 +1,0 @@
-(this["webpackJsonpdeveloper-portfolio-app"]=this["webpackJsonpdeveloper-portfolio-app"]||[]).push([[15],{187:function(p,o,e){p.exports=e.p+"static/media/skills.2946d104.md"}}]);
-//# sourceMappingURL=15.8d82ac96.chunk.js.map
