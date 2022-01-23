@@ -45,7 +45,7 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             During three labs, we learned the theory behind decoding a FM signal. Then, we used GNUradio to manipulate a radio signal. The goal was to try to get the audio from a recorded radio signal. To do so, we used different treatment elements like frequency shifters, band-pass filters, frequency demodulators, and more. The signal treatment is done entirely with the software. The software is easy to use since you have blocks that you have to link together with the correct parameters. After different treatment steps, we were able to decode the signal and thus, to retrieve a clean audio signal. I think it was a clever way of doing the lab because it was exciting to try to decode the signal and very rewarding to have the result and to listen to the audio. You can consult the report on the like below:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sdr_report.pdf">SDR Report</a>
+            <a style="color: #9599a0" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sdr_report.pdf">SDR Report</a>
         </p>
     </details>
     <br>
@@ -53,21 +53,18 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
         <summary style="color: #9599a0">Energy for connected objects labs at AIME</summary>
         <figure style="text-align: center">
         <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_SUPERCAPA_1.jpg?raw=true"
-            title="Supercapacitor"
-            height="250">
+            title="Gold deposition"
+            height="200">
         <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_SUPERCAPA_2.jpg?raw=true"
-            title="Supercapacitor"
-            height="250">
+            title="Carbon deposition"
+            height="200">
         <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_SUPERCAPA_3.jpg?raw=true"
-            title="Supercapacitor"
-            height="250">
+            title="Carbon deposition"
+            height="200">
         <figcaption>Our supercapacitor</figcaption>
     </figure>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
-            a
-        </p>
-        <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
-            a
+            The AIME labs were really interesting. I liked using a different photolithography method to do the gold deposition. Then, we assembled the supercapacitor onto a PCB board and we deposed some carbon and electrolytes to use it. Finally, we tested our supercapacitor to see its performances.
         </p>
     </details>
 </details>
@@ -80,20 +77,20 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
     <details style="text-indent: 2%;">
         <summary style="color: #9599a0">Protocols for connected objects</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            In groups of three, we had to present different protocols for Wireless Sensor Network, e.g., LoRA, Sigfox, BLE, ZigBee, NB-IoT or M2M. My group chose to study NB-IoT. It was difficult to find information about the protocol we chose. Certain characteristics were easy to understand thanks to online documentation. However, when we had to find precise information e.g., value of the radio range in a real environment, we ended up doing a lot of unsuccessful research.
+            In groups of three, we had to present different protocols for Wireless Sensor Network, e.g., LoRA, Sigfox, BLE, ZigBee, NB-IoT or M2M. My group chose to study NB-IoT. It was difficult to find information about the protocol we chose. Certain characteristics were easy to understand thanks to online documentation. However, when we had to find precise information e.g., value of the radio range in a real environment, we ended up doing a lot of unsuccessful research.<br>
             You can find our report here:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/nbiot_report.pdf">NB-IoT Report</a>
+            <a style="color: #9599a0" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/nbiot_report.pdf">NB-IoT Report</a>
             <br>
             You can see our presentation here:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/nbiot_slides.pdf">NB-IoT Presentation</a>
+            <a style="color: #9599a0" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/nbiot_slides.pdf">NB-IoT Presentation</a>
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-           This assignment was also challenging for me because I am not really at ease with communication and networking. Thankfully, since I was not alone to do this, I was able to understand a little bit more thanks to my teammates. Watching the presentation of other protocols also helped me understand the one I was working on a bit more, as there are a lot of similarities between the different protocols. We also conducted a deep study of the MAC layer options for IoT. This assignment was challenging for me as well. Thankfully, there are a lot of resources online that helped me understand the different concepts.
+           This assignment was also challenging for me because I am not really at ease with communication and networking. Thankfully, since I was not alone to do this, I was able to understand a little bit more thanks to my teammates. Watching the presentation of other protocols also helped me understand the one I was working on a bit more, as there are a lot of similarities between the different protocols. We also conducted a deep study of the MAC layer options for IoT. This assignment was challenging for me as well. Thankfully, there are a lot of resources online that helped me understand the different concepts.<br>
            You can find my report here:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/maclayer_report.pdf">MAC Layer Report</a>
+            <a style="color: #9599a0" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/maclayer_report.pdf">MAC Layer Report</a>
             <br>
             You can see my presentation here:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/maclayer_slides.pdf">MAC Layer Presentation</a>
+            <a style="color: #9599a0" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/maclayer_slides.pdf">MAC Layer Presentation</a>
         </p>
     </details>
     <br>
@@ -107,7 +104,9 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
     <details style="text-indent: 2%;">
         <summary style="color: #9599a0">From 3G to 5G</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For this course, we had to present a topic about 5G in teams of two. With my partner, we chose “5G and smart cities”. We found a lot of information online, but the main challenge was to select the right data. We also did not know how technical the presentation had to be.
+            For this course, we had to present a topic about 5G in teams of two. With my partner, we chose “5G and smart cities”. We found a lot of information online, but the main challenge was to select the right data. We also did not know how technical the presentation had to be.<br>
+            You can see my presentation here:
+            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/3Gto5G_slides.pdf">5G and Smart Cities Presentation</a>
         </p>
     </details>
     <br>
@@ -136,12 +135,6 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             As I said in the Technical Challenge section, the module was vast and dense. The number of classes gave us a lot of information and assignments at the same time. As you can see in the skill matrix, the first section is heavily loaded. This represents the amount of work and skills required in a few weeks.
         </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For the Communication Protocols course, I do not feel that I reached the expected level. I think I did not have enough time to study this class. I felt overwhelmed by the amount of information we were given. This module was clearly not my strength. I still think that I understand the general overview of IoT standards, but I am not really at ease with more technical skills concerning the energy or complex reception process. I think that a lot of students were in a similar situation. We exchanged a lot to try to understand the main concepts of this class.
-        </p>
-        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For the Emerging Networks class, I think that the labs really helped me acquire the skills I needed to reach the expected level. I could manipulate the technology which is my favorite way of learning. I can say the same for the Energy for IoT class.
-        </p>
         <br>
         <table style="border-collapse: collapse; border: 1px #9599a0 solid; text-align: center; margin-left: 2%;">
             <tr>
@@ -163,24 +156,24 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
                 <td style="border: 1px #9599a0 solid;">Be able to analyse and evaluate protocoles dedicated to Wireless Sensor Networks/IoT</td>
                 <td style="border: 1px #9599a0 solid;">4</td>
                 <td style="border: 1px #9599a0 solid;">3</td>
-                <td style="border: 1px #9599a0 solid;">IT</td>
+                <td style="border: 1px #9599a0 solid;">IT + PE</td>
             </tr>
             <tr>
                 <td style="border: 1px #9599a0 solid;">Understand and master the fundamentals of emerging network paradigms applied to IoT</td>
                 <td style="border: 1px #9599a0 solid;">4</td>
-                <td style="border: 1px #9599a0 solid;">4</td>
+                <td style="border: 1px #9599a0 solid;">3</td>
                 <td style="border: 1px #9599a0 solid;">IT + PE</td>
             </tr>
             <tr>
                 <td style="border: 1px #9599a0 solid;">Understand and master the optimisation of IoT communication protocols at MAC level</td>
                 <td style="border: 1px #9599a0 solid;">4</td>
                 <td style="border: 1px #9599a0 solid;">2</td>
-                <td style="border: 1px #9599a0 solid;">IT</td>
+                <td style="border: 1px #9599a0 solid;">IT + PE</td>
             </tr>
             <tr>
                 <td style="border: 1px #9599a0 solid;">Understand and master the security mechanismes of IoT communication protocols</td>
                 <td style="border: 1px #9599a0 solid;">4</td>
-                <td style="border: 1px #9599a0 solid;">4</td>
+                <td style="border: 1px #9599a0 solid;">3</td>
                 <td style="border: 1px #9599a0 solid;">IT + PE</td>
             </tr>
             <tr>
@@ -190,6 +183,15 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
                 <td style="border: 1px #9599a0 solid;">IT</td>
             </tr>
         </table>
+        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+            For the Communication Protocols course, I do not feel that I reached the expected level. I think I did not have enough time to study this class. I felt overwhelmed by the amount of information we were given. This module was clearly not my strength. I still think that I understand the general overview of IoT standards, but I am not really at ease with more technical skills concerning the energy or complex reception process. I think that a lot of students were in a similar situation. We exchanged a lot to try to understand the main concepts of this class.
+        </p>
+        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+            For the Emerging Networks and Security classes, I think that the labs really helped me acquire the skills I needed to reach the expected level. I could manipulate the technology which is my favorite way of learning. I can say the same for the Energy for IoT class.
+        </p>
+        <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+            For the Energy class, the labs were a really good illustration of the notions. The AIME lab was really helpful to understand the supercapacitors.
+        </p>
     </details>
     <br>
     <details style="text-indent: 2%;">

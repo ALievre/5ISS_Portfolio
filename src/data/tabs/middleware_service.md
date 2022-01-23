@@ -105,13 +105,13 @@ SUPERVIZOR: THIERRY MONTEIL
        <td style="border: 1px #ffca28 solid;">Know how to define a Service Oriented Architecture</td>
        <td style="border: 1px #ffca28 solid;">4</td>
        <td style="border: 1px #ffca28 solid;">4</td>
-       <td style="border: 1px #ffca28 solid;">IT + PP</td>
+       <td style="border: 1px #ffca28 solid;">IT</td>
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid;">Deploy an SOA with web services</td>
        <td style="border: 1px #ffca28 solid;">4</td>
        <td style="border: 1px #ffca28 solid;">4</td>
-       <td style="border: 1px #ffca28 solid;">IT + PP</td>
+       <td style="border: 1px #ffca28 solid;">IT</td>
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid;">Deploy and configure an SOA using SOAP</td>
@@ -123,7 +123,7 @@ SUPERVIZOR: THIERRY MONTEIL
        <td style="border: 1px #ffca28 solid;">Deploy and configure an SOA using REST</td>
        <td style="border: 1px #ffca28 solid;">4</td>
        <td style="border: 1px #ffca28 solid;">4</td>
-       <td style="border: 1px #ffca28 solid;">IT + PP</td>
+       <td style="border: 1px #ffca28 solid;">IT</td>
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid;">Integrate a process manager in an SOA</td>
@@ -168,7 +168,7 @@ SUPERVIZOR: THIERRY MONTEIL
        <td style="border: 1px #ffca28 solid;">Interact with the different resources of the architecture using REST services</td>
        <td style="border: 1px #ffca28 solid;">4</td>
        <td style="border: 1px #ffca28 solid;">4</td>
-       <td style="border: 1px #ffca28 solid;">IT + PP</td>
+       <td style="border: 1px #ffca28 solid;">IT</td>
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid;">Integrate a new technology into the deployed architecture</td>
@@ -195,13 +195,13 @@ SUPERVIZOR: THIERRY MONTEIL
        <td style="border: 1px #ffca28 solid;">Understand the concept of cloud computing</td>
        <td style="border: 1px #ffca28 solid;">3</td>
        <td style="border: 1px #ffca28 solid;">3</td>
-       <td style="border: 1px #ffca28 solid;">IT</td>
+       <td style="border: 1px #ffca28 solid;">IT + PE</td>
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid;">Use a IaaS-type cloud service</td>
        <td style="border: 1px #ffca28 solid;">3</td>
        <td style="border: 1px #ffca28 solid;">3</td>
-       <td style="border: 1px #ffca28 solid;">IT</td>
+       <td style="border: 1px #ffca28 solid;">IT + PE</td>
     </tr>
     <tr>
        <td style="border: 1px #ffca28 solid;">Deploy and and adapt a cloud-based platform for IoT</td>

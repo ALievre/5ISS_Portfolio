@@ -26,6 +26,7 @@ import {
   faTable,
   faCar,
   faSeedling,
+  faLink,
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
@@ -46,6 +47,7 @@ library.add(
   faHeart,
   faListAlt,
   faTable,
+  faLink,
   faComments,
   faUniversity,
   faCodeBranch,

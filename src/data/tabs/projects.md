@@ -18,5 +18,9 @@
   - Similar to _Bilen Adam_, which is listed below.
   - `React`, `TypeScript`, `Serverless Functions`
 
+- [Astroloci](https://play.google.com/store/apps/details?id=com.astroloci.app) \[_Half-baked_\]
+
+- [WatcherCatBot](https://github.com/caglarturali/WatcherCatBot/)
+
   - A Telegram bot that returns popularity info of the given Linux distribution.
   - `Node.js`, `Express.js`

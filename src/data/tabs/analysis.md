@@ -33,8 +33,8 @@ SUPERVIZOR: NAWAL GUERMOUCHE
     <details style="text-indent: 10%;">
         <summary style="color: #98c379">Data processing and clustering project</summary>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
-            In this class, we learned how to process data and we saw different clustering methods. We could choose some data sets from a wide choice of data sets to study the different clustering methods. We studied the K-Means, Agglomerative and DBSCAN methods. After establishing the benefits and drawbacks of each methods, we used them to study unknown data sets. Finally, we had to do a full study of a real meteorological data. You can find the report in the link below: 
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/bigdata_report.pdf">Data Clustering Report</a>
+            In this class, we learned how to process data and we saw different clustering methods. We could choose some data sets from a wide choice of data sets to study the different clustering methods. We studied the K-Means, Agglomerative and DBSCAN methods. After establishing the benefits and drawbacks of each methods, we used them to study unknown data sets. Finally, we had to do a full study of a real meteorological data. You can find the report in the following link: 
+            <a style="color: #98c379" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/bigdata_report.pdf">Data Clustering Report</a>
         </p>
     </details>
 </details>
@@ -45,7 +45,8 @@ SUPERVIZOR: NAWAL GUERMOUCHE
     <details style="text-indent: 2%;">
         <summary style="color: #98c379">Semantic data</summary>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            Since it was the first time I had a Semantic Data class, the challenge was to grasp the meaning of the different notions like Ontology, Data Property or Object Property. The first lab really helped with that. The second lab used the ontology we created with a Java application. The main challenge of this lab was to understand how to create an Instance and how to manipulate them in Java. My knowledge in this programming language helped me to implement the different functions I needed for this application.
+            Since it was the first time I had a Semantic Data class, the challenge was to grasp the meaning of the different notions like Ontology, Data Property or Object Property. The first lab really helped with that. The second lab used the ontology we created with a Java application. The main challenge of this lab was to understand how to create an Instance and how to manipulate them in Java. My knowledge in this programming language helped me to implement the different functions I needed for this application.You can find the report in the following link: 
+            <a style="color: #98c379" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/semantic_report.pdf">Semantic Data Report</a>
         </p>
     </details>
     <br>
@@ -91,19 +92,19 @@ SUPERVIZOR: NAWAL GUERMOUCHE
     <tr>
        <td style="border: 1px #98c379 solid;">Define the different phases in software development</td>
        <td style="border: 1px #98c379 solid;">3</td>
-       <td style="border: 1px #98c379 solid;">4</td>
-       <td style="border: 1px #98c379 solid;">IT + PP</td>
+       <td style="border: 1px #98c379 solid;">3</td>
+       <td style="border: 1px #98c379 solid;">IT</td>
     </tr>
     <tr>
        <td style="border: 1px #98c379 solid;">Know the different project management methods</td>
        <td style="border: 1px #98c379 solid;">3</td>
-       <td style="border: 1px #98c379 solid;">4</td>
+       <td style="border: 1px #98c379 solid;">3</td>
        <td style="border: 1px #98c379 solid;">IT</td>
     </tr>
     <tr>
        <td style="border: 1px #98c379 solid;">Apply one of these methods to a project</td>
        <td style="border: 1px #98c379 solid;">3</td>
-       <td style="border: 1px #98c379 solid;">4</td>
+       <td style="border: 1px #98c379 solid;">3</td>
        <td style="border: 1px #98c379 solid;">IT + PP</td>
     </tr>
     </table>
@@ -124,19 +125,19 @@ SUPERVIZOR: NAWAL GUERMOUCHE
     <tr>
        <td style="border: 1px #98c379 solid;">Design and understand a model for an application</td>
        <td style="border: 1px #98c379 solid;">3</td>
-       <td style="border: 1px #98c379 solid;">4</td>
+       <td style="border: 1px #98c379 solid;">3</td>
        <td style="border: 1px #98c379 solid;">IT</td>
     </tr>
     <tr>
        <td style="border: 1px #98c379 solid;">Know how to infer new knowlegde from a knowledge base</td>
        <td style="border: 1px #98c379 solid;">3</td>
-       <td style="border: 1px #98c379 solid;">4</td>
+       <td style="border: 1px #98c379 solid;">3</td>
        <td style="border: 1px #98c379 solid;">IT</td>
     </tr>
     <tr>
        <td style="border: 1px #98c379 solid;">Be able to enrich data with semantic meta-data</td>
        <td style="border: 1px #98c379 solid;">3</td>
-       <td style="border: 1px #98c379 solid;">4</td>
+       <td style="border: 1px #98c379 solid;">3</td>
        <td style="border: 1px #98c379 solid;">IT</td>
     </tr>
     </table>
@@ -157,13 +158,13 @@ SUPERVIZOR: NAWAL GUERMOUCHE
     <tr>
        <td style="border: 1px #98c379 solid;">Know how to explore and represent data sets</td>
        <td style="border: 1px #98c379 solid;">3</td>
-       <td style="border: 1px #98c379 solid;">4</td>
+       <td style="border: 1px #98c379 solid;">3</td>
        <td style="border: 1px #98c379 solid;">IT + PE</td>
     </tr>
     <tr>
        <td style="border: 1px #98c379 solid;">Master complexity associated to statistical data processing and know the techniques to be used to minimise them</td>
        <td style="border: 1px #98c379 solid;">3</td>
-       <td style="border: 1px #98c379 solid;">4</td>
+       <td style="border: 1px #98c379 solid;">3</td>
        <td style="border: 1px #98c379 solid;">IT</td>
     </tr>
     </table>

@@ -9,15 +9,15 @@ SUPERVIZOR: THIERRY MONTEIL
 <details>
     <summary style="color: #36874a">Description</summary>
     <figure style="text-align: center">
-        <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/hackathon_circuit.PNG?raw=true"
-            title="Our system"
-            height="250">
+        <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/hackathon_circuit.png?raw=true"
+            title="Circuit"
+            height="200">
         <figcaption>Our system</figcaption>
     </figure>
     <figure style="text-align: center">
-        <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/hackathon_dashboard.PNG?raw=true"
-            title="Levitating chair"
-            height="250">
+        <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/hackathon_dashboard.png?raw=true"
+            title="Dashboard"
+            height="200">
         <figcaption>Our dashboard</figcaption>
     </figure>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">

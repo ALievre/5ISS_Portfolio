@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "title": "My Documents",
+    "subtitle": "Here, you can find all the reports and presentations I made during the semester.",
+    "info": "The files are in PDF."
+  },
+  "semesters": [
+    {
+      "name": "Smart Devices",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "Datasheet",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sdev_datasheet.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Communication",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "SDR Report",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sdr_report.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "NB-IoT Report",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/nbiot_report.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "NB-IoT Presentation",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/nbiot_slides.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MAC Layer Report",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/maclayer_report.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+        ,
+        {
+          "courseName": "MAC Layer Presentation",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/maclayer_slides.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "3G to 5G Presentation",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/3Gto5G_slides.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Analysis & Data Processing",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "Big Data",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/bigdata_report.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Semantic Data",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/semantic_report.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Middleware & Service",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "Middleware TP1",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/middleware_onem2m.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Middleware TP2",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/middleware_mqtt.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Middleware TP3",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/middleware_nodered.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SOA Report",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/soa_report.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Cloud",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/cloud_report.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hackathon",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "Presentation",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/hackathon_slides.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Innovation & Humanity",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "Innovation Presentation",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/innovation_slides.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Creativity Report",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/creativity_report.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Social Psycology Presentation",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sociability_slides.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Sport Report",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/appn_report.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Project & Portfolio",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "Project Report",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/rtk_report.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Project Presentation",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/rtk_slides.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Internship",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "Poster",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/vitesco_poster.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Presentation",
+          "sections": [
+            {
+              "title": "Link GitHub",
+              "url": "https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/vitesco_slides.pdf",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

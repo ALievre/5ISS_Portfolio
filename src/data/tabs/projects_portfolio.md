@@ -33,18 +33,18 @@ SUPERVIZOR: VINCENT MIGLIORE
     <details style="text-indent: 10%;">
         <summary style="color: #42a5f5">RTK, you are not lost!</summary>
         <figure style="text-align: center">
-            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_materiel.PNG?raw=true"
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_materiel.png?raw=true"
                 title="Our equipment"
-                height="250">
-            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_archi.PNG?raw=true"
+                height="200">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_archi.png?raw=true"
                 title="Our solution"
-                height="250">
-            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_firebase.PNG?raw=true"
+                height="200">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_firebase.png?raw=true"
                 title="Our database"
-                height="250">
-            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_website.PNG?raw=true"
+                height="200">
+            <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_website.png?raw=true"
                 title="Our website"
-                height="250">
+                height="200">
             <figcaption>RTK Project</figcaption>
         </figure>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
@@ -137,13 +137,13 @@ SUPERVIZOR: VINCENT MIGLIORE
             <td style="border: 1px #42a5f5 solid;">Analyse a real-life problem</td>
             <td style="border: 1px #42a5f5 solid;">4</td>
             <td style="border: 1px #42a5f5 solid;">4</td>
-            <td style="border: 1px #42a5f5 solid;">IT</td>
+            <td style="border: 1px #42a5f5 solid;">IT + PE + PP</td>
         </tr>
         <tr>
             <td style="border: 1px #42a5f5 solid;">Suggest a technological solution to a problem</td>
             <td style="border: 1px #42a5f5 solid;">4</td>
             <td style="border: 1px #42a5f5 solid;">4</td>
-            <td style="border: 1px #42a5f5 solid;">IT</td>
+            <td style="border: 1px #42a5f5 solid;">IT + PE + PP</td>
         </tr>
         <tr>
             <td style="border: 1px #42a5f5 solid;">Implement a prototype to solve the problem</td>
@@ -165,7 +165,7 @@ SUPERVIZOR: VINCENT MIGLIORE
         </tr>
         </table>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            I was really invested in the Innovative project because I was interested in the subject. It was full of challenges, but we managed to overcome them all and even going further than I even would have imagined at the beginning of the semester. Thus, I am very proud of my team for doing so. With this project, I feel that I truly improved my technical skills but also my presentation and communication skills. 
+            I was really invested in the Innovative project because I was interested in the subject. It was full of challenges, but we managed to overcome them all and even going further than I even would have imagined at the beginning of the semester. Thus, I am very proud of my team for doing so. I used all the skills I gain this semester to resolve our problems. I gained more skills by using different tools like Firebase or Mapbox. With this project, I feel that I truly improved my technical skills but also my presentation and communication skills. I improved my English by writing the report and presenting the project.
         </p>
         <table style="border-collapse: collapse; border: 1px #42a5f5 solid; text-align: center; margin-left: 2%;">
         <tr>
@@ -197,7 +197,7 @@ SUPERVIZOR: VINCENT MIGLIORE
         </tr>
     </table>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            Likewise, I am proud of my portfolio. During all the semester, I was pretty frustrated because I felt like I did not have time to really invest myself into the different deliverables we had to produce. So, I knew that I wanted to spend a lot of time on this portfolio. I wanted to make it as good as I could. Even though I started late, like most part of the students, I wanted to end over all of my other reports before the Christmas holidays to be sure to have time to work on my portfolio during this time. The layout of the website was very important but the content of it was even more. I chose to only talk about my 5th year modules and my 4th year internship because of the density of the 5th year. I thought there was already enough notions and skills to present to fill the entire portfolio.
+            Likewise, I am proud of my portfolio. During all the semester, I was pretty frustrated because I felt like I did not have time to really invest myself into the different deliverables we had to produce. So, I knew that I wanted to spend a lot of time on this portfolio. I wanted to make it as good as I could. I used my knowledge of HTML5, CSS3 and Javascript too help understand React. I really wanted to use React to prepare for my internship. Even though I started late, like most part of the students, I wanted to end over all of my other reports before the Christmas holidays to be sure to have time to work on my portfolio during this time. The layout of the website was very important but the content of it was even more. I chose to only talk about my 5th year modules and my 4th year internship because of the density of the 5th year. I thought there was already enough notions and skills to present to fill the entire portfolio.
         </p>
     </details>
     <br>

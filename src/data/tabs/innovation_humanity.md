@@ -150,25 +150,25 @@ SUPERVIZOR: HÉLÈNE HERENG
        <td style="border: 1px #9c56c2 solid;">Solve a problem in a creative way</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
-       <td style="border: 1px #9c56c2 solid;">IT + ST + PP</td>
+       <td style="border: 1px #9c56c2 solid;">IT + PE + PP</td>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid;">Develop the first stage of innovation</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
-       <td style="border: 1px #9c56c2 solid;">IT</td>
+       <td style="border: 1px #9c56c2 solid;">IT + PE</td>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid;">Understand production, validation, distribution, acceptability, and aftermath of innovation</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
-       <td style="border: 1px #9c56c2 solid;">IT</td>
+       <td style="border: 1px #9c56c2 solid;">IT + PE</td>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid;">Structure and lead an innovative project</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
-       <td style="border: 1px #9c56c2 solid;">IT + PE + ST</td>
+       <td style="border: 1px #9c56c2 solid;">IT + PE</td>
     </tr>
     </table>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
@@ -189,7 +189,7 @@ SUPERVIZOR: HÉLÈNE HERENG
        <td style="border: 1px #9c56c2 solid;">Multi-disciplinary students work as a team</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
-       <td style="border: 1px #9c56c2 solid;">IT + ST</td>
+       <td style="border: 1px #9c56c2 solid;">IT + PE + PP</td>
     </tr>
     </table>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
@@ -210,13 +210,13 @@ SUPERVIZOR: HÉLÈNE HERENG
        <td style="border: 1px #9c56c2 solid;">Express and exchange hypotheses</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
-       <td style="border: 1px #9c56c2 solid;">IT + ST</td>
+       <td style="border: 1px #9c56c2 solid;">IT + ST + PE</td>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid;">Suggest a strategy to solve the problem identified</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
-       <td style="border: 1px #9c56c2 solid;">IT + ST</td>
+       <td style="border: 1px #9c56c2 solid;">IT + ST + PP</td>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid;">Suggest a model</td>
@@ -228,7 +228,7 @@ SUPERVIZOR: HÉLÈNE HERENG
        <td style="border: 1px #9c56c2 solid;">Choose, design and/or justify a protocol or an experimental prototype</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
        <td style="border: 1px #9c56c2 solid;">4</td>
-       <td style="border: 1px #9c56c2 solid;">IT</td>
+       <td style="border: 1px #9c56c2 solid;">IT + PE + PP</td>
     </tr>
     </table>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">

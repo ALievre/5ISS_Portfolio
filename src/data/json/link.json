@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "title": "My Projects' Links",
+    "subtitle": "Here, you can find all the links to all my projects.",
+    "info": ""
+  },
+  "semesters": [
+    {
+      "name": "Smart Devices",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "M&OSH Repository",
+          "sections": [
+            {
+              "title": "Link",
+              "url": "https://github.com/MOSH-Insa-Toulouse/2021_2022_LIEVRE_NGUYEN",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Analysis & Data Processing",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "Big Data Repository",
+          "sections": [
+            {
+              "title": "Link",
+              "url": "https://github.com/ALievre/BigData",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Middleware & Service",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "SOA Repository",
+          "sections": [
+            {
+              "title": "Link",
+              "url": "https://github.com/Assianguyen/SOA_Project",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hackathon",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "GitHub Repository",
+          "sections": [
+            {
+              "title": "Link",
+              "url": "https://github.com/ALievre/Hackathon",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Hackster.io",
+          "sections": [
+            {
+              "title": "Link",
+              "url": "https://www.hackster.io/haka/keti-hackathon-smart-crop-monitoring-and-growth-management-877d14",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Project & Portfolio",
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "courses": [
+        {
+          "courseName": "Project Repository",
+          "sections": [
+            {
+              "title": "Link",
+              "url": "https://github.com/ALievre/RTK_project",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Demo Video",
+          "sections": [
+            {
+              "title": "Link",
+              "url": "https://www.youtube.com/watch?v=SnIFUUjsiBk",
+              "progress": {
+                "completed": 7,
+                "total": 7
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

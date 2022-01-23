@@ -6,7 +6,8 @@ import { jsOrange, midBlue, lightGreen, red, darkOrange, lbIconColor, cyan, purp
 
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
-import cvData from './json/cv.json';
+import docsData from './json/docs.json';
+import linkData from './json/link.json';
 import msgData from './json/msg.json';
 import coursesData from './json/courses.json';
 import matrixData from './json/skills_matrix.json';
@@ -45,12 +46,20 @@ export const pages: PageLink[] = [
     comp: () => <Diploma diplomaData={matrixData} />,
   },
   {
-    name: 'CV',
-    url: '/cv_git',
+    name: 'My Documents',
+    url: '/docs',
     icon: 'file-pdf',
     isInternal: true,
     badge: '',
-    comp: () => <Diploma diplomaData={cvData} />,
+    comp: () => <Diploma diplomaData={docsData} />,
+  },
+  {
+    name: 'Links',
+    url: '/link',
+    icon: 'link',
+    isInternal: true,
+    badge: '',
+    comp: () => <Diploma diplomaData={linkData} />,
   },
   {
     name: 'Contact',

@@ -22,7 +22,7 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
     </tr>
     <tr>
        <td style="border: 1px #56b6c2 solid; font-weight: bold;">CAD, Manufacturing & Integration of Nano-Technology Sensors (AIME)</td>
-       <td style="border: 1px #56b6c2 solid;">Internship at the AIME lab to follow and realize the process of creating the gas sensor with a nano-particle deposition on a silicium board.</td>
+       <td style="border: 1px #56b6c2 solid;">Internship at the AIME lab to follow and realize the process of creating the gas sensor with a nano-particles deposition on a silicium board.</td>
     </tr>
     <tr>
        <td style="border: 1px #56b6c2 solid; font-weight: bold;">Sensors Introduction</td>
@@ -39,34 +39,34 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
         <figure style="text-align: center">
             <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_GSWO3_4.jpg?raw=true"
                 title="Gas sensor"
-                height="250">
+                height="200">
             <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_GSWO3_1.jpg?raw=true"
                 title="Gas sensor"
-                height="250">
+                height="200">
             <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_GSWO3_3.jpg?raw=true"
-                title="Gas sensor"
-                height="250">
+                title="Nano-particles deposition"
+                height="200">
             <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_GSWO3_8.jpg?raw=true"
-                title="Gas sensor"
-                height="250">
+                title="Nano-particles deposition"
+                height="200">
             <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_AIME_GSWO3_9.jpg?raw=true"
-                title="Gas sensor"
-                height="250">
+                title="Finished gas sensor"
+                height="100">
             <figcaption>Our gas sensor</figcaption>
         </figure>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
             The first experience we had in the Smart Devices module was the internship in the AIME cleanroom. It lasted for a week, consisting in different half-day modules where we could oversee and manipulate the different processes involved in the manufacturing of a nano-particle sensor. The end goal was to make a gas sensor from Tungsten nano-particles, that expresses a variation of resistance when detecting specific gases (in our case Ethanol & Ammonia).
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
-            The different steps we followed to make the sensor were the following: <br><br>
+            I describe the different steps we followed to make the sensor below: <br><br>
             1. &emsp; <b>Exposing the sensor circuit by photolithography:</b> without going into too much detail about the process of photolithography, we used it to engrave based on a mask on a silicium wafer. It is a pretty complex mask containing a heating resistance, a temperature sensor, and two interdigitated combs where we will make the deposition. <br><br>
-            2. &emsp; <b>Making and deposing the nano-particles:</b> the next step was to create the Tungstene nano-particles and deposit them on the engraved wafer. To do so, we followed an extremely precise chemical process, using pipettes going to a 0.05 milliliter precision.
+            2. &emsp; <b>Making and deposing the nano-particles:</b> the next step was to create the Tungstene nano-particles and deposit them on the engraved wafer. To do so, we followed an extremely precise chemical process, using equipment having a 0.05 milliliter precision.
             Once we obtained the particles, we deposited them using a process called Dielectrophoresis. What we did was we put a drop of our very diluted solution containing the nano-particles on the entire sensor circuit, and then put an electrical field only on the intergititated combs part. This resulsted in the particles only "sticking" to the desired part when we rinced the solution in water. <br><br>
             3. &emsp; <b>Caraterising the sensor for the datasheet:</b> now that we had our sensor, we tried to caracterise it by generating some I/V curves, so that all the groups could use their data to create a datasheet. <br><br> 
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
-            Once the AIME internship was finished for all the groups and using the concepts we learned during the "Introduction to sensors" class, we were able to redact a datasheet that tries to be as close as possible to the ones you can find in the industry, made by professional mnufacturers. You can find the datasheet made by my group in the link below:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sdev_datasheet.pdf">Datasheet</a>
+            Once the AIME internship was finished for all the groups and using the concepts we learned during the "Introduction to sensors" class, we were able to redact a datasheet that tries to be as close as possible to the ones you can find in the industry, made by professional mnufacturers. You can find the datasheet made by my group in the following link:
+            <a style="color: #56b6c2" href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/sdev_datasheet.pdf">Datasheet</a>
         </p>
     </details>
     <br>
@@ -75,38 +75,38 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
         <figure style="text-align: center">
             <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_ARDUINO.jpg?raw=true"
                 title="Arduino system"
-                height="250">
+                height="200">
             <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_Schematic_PCB.PNG?raw=true"
                 title="Circuit"
-                height="250">
+                height="200">
         </figure>
         <figure style="text-align: center">
             <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_PCB.PNG?raw=true"
                 title="PCB Board"
-                height="250">
+                height="200">
             <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_PCB_3D.PNG?raw=true"
                 title="3D PCB Board"
-                height="250">
+                height="200">
         </figure>
         <figure style="text-align: center">
             <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/sdev_NODERED_dashboard_ok.PNG?raw=true"
                 title="Dashboard"
-                height="250">
+                height="200">
             <figcaption>M&OSH Project</figcaption>
         </figure>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
-            In this course, we had a lot of freedom to choose what direction we wanted to take: to follow proposed labs or to start a project directly related to our gas sensor. With my project partner, Assia Nguyen, we chose to start the porject to allow us to go further in the development of our sensor. It was a great follow-through since we can now use it with a shield, connect it to The Things Network and see the data on a Node-RED dashboard. The Arduino code used to retrieve and process the data was adapted for both the AIME gaz sensor and the industrial grove sensor given to us. We used a ESP32 as a microcontroller. I was very excited to start working on this project since its a culmination of what we did during the AIME internship and it showed me the complete process of making a sensor. Our work was divided into different steps:
+            In this course, we had a lot of freedom to choose what direction we wanted to take: to follow proposed labs or to start a project directly related to our gas sensor. With my project partner, Assia Nguyen, we chose to start the porject to allow us to go further in the development of our sensor. It was a great follow-through since we can now use it with a shield, connect it to The Things Network and see the data on a Node-RED dashboard. The Arduino code used to retrieve and process the data was adapted for both the AIME gaz sensor and the industrial grove sensor given to us. We used a ESP32 as a microcontroller. I was very excited to start working on this project since its a culmination of what we did during the AIME internship and it showed me the complete process of making a sensor. 
         </p>
         <p style="margin-left: 15%;">
-            <br>
-            1. &emsp; To test the LoRa connexion<br>
-            2. &emsp; To implement a code that retrieves and sends data to The Things Network with LoRaWAN<br>
-            3. &emsp; To conceive a PCB shield with KiCad<br>
-            4. &emsp; To create a Node-RED dashboard to display the data and the controls of the sensor<br>
+            Our work was divided into different steps:<br><br>
+            1. &emsp; To test the LoRa connexion<br><br>
+            2. &emsp; To implement a code that retrieves and sends data to The Things Network with LoRaWAN<br><br>
+            3. &emsp; To conceive a PCB shield with KiCad<br><br>
+            4. &emsp; To create a Node-RED dashboard to display the data and the controls of the sensor<br><br>
         </p>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
-            As a delierable for the project, we redacted a quick report in the form of a README file, follow the link below to consult it:
-            <a href="https://github.com/MOSH-Insa-Toulouse/2021_2022_LIEVRE_NGUYEN">M&OSH Project</a>
+            As a delierable for the project, we redacted a quick report in the form of a README file, follow the link to consult it:
+            <a style="color: #56b6c2" href="https://github.com/MOSH-Insa-Toulouse/2021_2022_LIEVRE_NGUYEN">M&OSH Project</a>
         </p>
     </details>
 </details>
@@ -193,7 +193,7 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
             </tr>   
         </table>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            For the Introduction to Sensors skillset, my background in Electronics really helped me understand what was expected of me. The cleanroom sessions were well explained so we could understand every step of the process. The datasheet was more challenging to write but coming from AE helped me since I already knew how to read a datasheet.
+            For the Introduction to Sensors skillset, my background in Electronics really helped me understand what was expected of me. The cleanroom sessions were well explained so we could understand every step of the process. The datasheet was more challenging to write but coming from AE helped me since I already knew how to read a datasheet. Teamwork was also a big part of this training and helped me overcome the challenges I faced.
         </p>
         <table style="border-collapse: collapse; border: 1px #56b6c2 solid; text-align: center; margin-left: 2%;">
             <tr>
@@ -243,7 +243,7 @@ SUPERVIZOR: JÉRÉMIE GRISOLIA
             </tr>
         </table>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            As for the M&OSH skillset, I really felt invested because that is the type of project I really like. Coming from AE and from personal projects, I already had previous experience to help me with this project.
+            As for the M&OSH skillset, I really felt invested because that is the type of project I really like. Coming from AE and from personal projects, I already had previous experience to help me with this project. Since this module had more AE notions, I already had some skills about circuits, PCB board, Arduino microcontroller and ESP32. The lectures were a good reminder of electronics, physics and programming notions.
         </p>
     </details>
     <br>
