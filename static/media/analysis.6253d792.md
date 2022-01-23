@@ -171,6 +171,20 @@ SUPERVISOR: NAWAL GUERMOUCHE
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
         For the Big Data class, I was really invested in learning how to cluster the data even though I never did it before. I learned a lot how to analyze and exploit a dataset during these labs.
     </p>
+    <p>
+        I can summarize the skills I acquired with this module:
+    </p>
+    <ul>
+        <li>Understand the main concept of Big Data</li>
+        <li>Understand the concept of clustering</li>
+        <li>Understand the concepts of Semantic Data</li>
+        <li>Understand the concept of Continuous Integation</li>
+        <li>Use different clustering methods</li>
+        <li>Use the Protégé software to create an Ontology</li>
+        <li>Exploit an Ontology</li>
+        <li>Use the JIRA software to implement the Agile method</li>
+        <li>Use GitHub Actions to implement a Continuous Integation</li>
+    </ul>
     </details>
     <br>
     <details style="text-indent: 2%;">

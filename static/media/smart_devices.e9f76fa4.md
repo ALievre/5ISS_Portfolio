@@ -244,6 +244,18 @@ SUPERVISOR: JÉRÉMIE GRISOLIA
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             As for the M&OSH skillset, I really felt invested because that is the type of project I really like. Coming from AE and from personal projects, I already had previous experience to help me with this project. Since this module had more AE notions, I already had some skills about circuits, PCB board, Arduino microcontroller and ESP32. The lectures were a good reminder of electronics, physics and programming notions.
         </p>
+        <p>
+            I can summarize the skills I acquired with this module:
+        </p>
+        <ul>
+            <li>Conceive a nan-particles based sensor in a cleanroom</li>
+            <li>Establish communication between a sensor and a gateway with LoRaWAN</li>
+            <li>Display the data with a Node-RED dashboard</li>
+            <li>Write a datasheet</li>
+            <li>Program an ESP32</li>
+            <li>Use LTSpice to conceive a circuit</li>
+            <li>Use KiCad to design a PCB board</li>
+        </ul>
     </details>
     <br>
     <details style="text-indent: 2%;">

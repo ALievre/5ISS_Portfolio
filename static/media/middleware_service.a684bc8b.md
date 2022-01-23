@@ -222,6 +222,17 @@ SUPERVISOR: THIERRY MONTEIL
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
         The Cloud & Autonomic Management class had the more theoretical concepts that I also did not know before. However, I feel like the lab sessions were enough for me to understand the main skills expected. Of course, I do not think that my skills are the same as those of a student coming from Computer Science but thankfully, that is not what was expected of me.
     </p>
+    <p>
+        I can summarize the skills I acquired with this module:
+    </p>
+    <ul>
+        <li>Understand the main IoT standards</li>
+        <li>Understand the main principles of a SOA</li>
+        <li>Understand the concepts of cloud computing</li>
+        <li>Deploy a platform oneM2M</li>
+        <li>Deploy a SOA with web services</li>
+        <li>Deploy a cloud based platform</li>
+    </ul>
     </details>
     <br>
     <details style="text-indent: 2%;">

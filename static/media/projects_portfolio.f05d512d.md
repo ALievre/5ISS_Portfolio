@@ -172,7 +172,7 @@ SUPERVISOR: VINCENT MIGLIORE
         </tr>
         </table>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            I was really invested in the Innovative project because I was interested in the subject. It was full of challenges, but we managed to overcome them all and even going further than I even would have imagined at the beginning of the semester. Thus, I am very proud of my team for doing so. I used all the skills I gain this semester to resolve our problems. I did the major part of all the research about the GPS, DGPS and RTK technologies. I also used an ESP32 to parse the frames received by the base station.Moreover, I gained more skills by using different tools like Firebase or Mapbox. With this project, I feel that I truly improved my technical skills but also my presentation and communication skills. I improved my English by writing the report and presenting the project.
+            I was really invested in the Innovative project because I was interested in the subject. It was full of challenges, but we managed to overcome them all and even going further than I even would have imagined at the beginning of the semester. Thus, I am very proud of my team for doing so. I used all the skills I gain this semester to resolve our problems. I did the major part of all the research about the GPS, DGPS and RTK technologies. I also used an ESP32 to parse the frames received by the base station. Moreover, I gained more skills by using different tools like Firebase or Mapbox. With this project, I feel that I truly improved my technical skills but also my presentation and communication skills. I improved my English by writing the report and presenting the project.
         </p>
         <table style="border-collapse: collapse; border: 1px #42a5f5 solid; text-align: center; margin-left: 2%;">
         <tr>
@@ -206,6 +206,21 @@ SUPERVISOR: VINCENT MIGLIORE
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             Likewise, I am proud of my portfolio. During all the semester, I was pretty frustrated because I felt like I did not have time to really invest myself into the different deliverables we had to produce. So, I knew that I wanted to spend a lot of time on this portfolio. I wanted to make it as good as I could. I used my knowledge of HTML5, CSS3 and Javascript too help understand React. I really wanted to use React to prepare for my internship. Even though I started late, like most part of the students, I wanted to end over all of my other reports before the Christmas holidays to be sure to have time to work on my portfolio during this time. The layout of the website was very important but the content of it was even more. I chose to only talk about my 5th year modules and my 4th year internship because of the density of the 5th year. I thought there was already enough notions and skills to present to fill the entire portfolio.
         </p>
+        <p>
+            I can summarize the skills I acquired with this module:
+        </p>
+        <ul>
+            <li>Present and write in English</li>
+            <li>Analyze a problem, suggest a solution and implement a prototype</li>
+            <li>Understand the RTK technology</li>
+            <li>Use GitHub</li>
+            <li>Use the JSON format to send data to a database</li>
+            <li>Use an ESP32 to intercept frames</li>
+            <li>Create and use a database</li>
+            <li>Develop a website and recover data from a database</li>
+            <li>Develop a website using REACT</li>
+            <li>Deploy a website on GitHub Pages</li>
+        </ul>
     </details>
     <br>
     <details style="text-indent: 2%;">

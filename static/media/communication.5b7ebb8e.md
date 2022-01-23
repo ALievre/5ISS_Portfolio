@@ -192,6 +192,19 @@ SUPERVISOR: DANIELA DRAGOMIRESCU
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             For the Energy class, the labs were a really good illustration of the notions. The AIME lab was really helpful to understand the supercapacitors.
         </p>
+        <p>
+            I can summarize the skills I acquired with this module:
+        </p>
+        <ul>
+            <li>Understand the new mobile network technologies</li>
+            <li>Understand the different communication protocols</li>
+            <li>Be able to know which protocol to use depending of the project</li>
+            <li>Understand the concepts of SDR</li>
+            <li>Understand the concepts of SDN router</li>
+            <li>Understand the different kind of wireless power transfer</li>
+            <li>Understand the basis of security</li>
+            <li>Write the routing rules of a SDN router in Python</li>
+        </ul>
     </details>
     <br>
     <details style="text-indent: 2%;">
