@@ -1,6 +1,6 @@
 <h3 style="color: #9599a0">Communication</h3>
 
-SUPERVIZOR: DANIELA DRAGOMIRESCU
+SUPERVISOR: DANIELA DRAGOMIRESCU
 
 <p style="text-indent: 2%; text-align: justify;">
     Communication protocols are one of the bases of connected objects. Innovation happens with new standards appearing everyday like 5G. It is important for us to be aware of the main technologies used today. In this course, we studied protocols (LoRa, Zigbee, Sigfox, NB-IoT, ...) but also energy problematics, wireless radio methods and security.
@@ -71,7 +71,7 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
 <br>
 <details>
     <summary style="color: #9599a0">Technical challenges</summary>
-     <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             The main challenge of this module was the number of deliverables and assignments we had to produce.
         </p>
     <details style="text-indent: 2%;">
@@ -106,7 +106,7 @@ SUPERVIZOR: DANIELA DRAGOMIRESCU
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
             For this course, we had to present a topic about 5G in teams of two. With my partner, we chose “5G and smart cities”. We found a lot of information online, but the main challenge was to select the right data. We also did not know how technical the presentation had to be.<br>
             You can see my presentation here:
-            <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/3Gto5G_slides.pdf">5G and Smart Cities Presentation</a>
+            <a style="color: #9599a0"href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/3Gto5G_slides.pdf">5G and Smart Cities Presentation</a>
         </p>
     </details>
     <br>

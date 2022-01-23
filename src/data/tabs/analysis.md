@@ -1,6 +1,6 @@
 <h3 style="color: #98c379">Analysis & Data Processing</h3>
 
-SUPERVIZOR: NAWAL GUERMOUCHE
+SUPERVISOR: NAWAL GUERMOUCHE
 
 <p style="text-indent: 2%; text-align: justify;">
     As we saw during the Communication module, more and more connected objects and systems are appearing every day. With them comes a huge amount of data. In this module, we worked on exploiting and adding value to these data.
@@ -169,7 +169,7 @@ SUPERVIZOR: NAWAL GUERMOUCHE
     </tr>
     </table>
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-        For the Big Data class, I was really invested in learning how to cluster the data even though I never did it before. I learned a lot of skills during these labs.
+        For the Big Data class, I was really invested in learning how to cluster the data even though I never did it before. I learned a lot how to analyze and exploit a dataset during these labs.
     </p>
     </details>
     <br>

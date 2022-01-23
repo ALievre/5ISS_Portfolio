@@ -1,6 +1,6 @@
 <h3 style="color: #42a5f5">Project & Portfolio</h3>
 
-SUPERVIZOR: VINCENT MIGLIORE
+SUPERVISOR: VINCENT MIGLIORE
 
 <p style="text-indent: 2%; text-align: justify;">
     This semester is centered around a large-scale project. This project is a culmination of all the education we received at INSA. It brings together the skills and knowledge acquired during the semester. It puts us in the situation of leading and managing a project going over several months.
@@ -43,12 +43,12 @@ SUPERVIZOR: VINCENT MIGLIORE
                 title="Our database"
                 height="200">
             <img src="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/images/rtk_website.png?raw=true"
-                title="Our website"
+                title="Our website (blue: base, red: rover)"
                 height="200">
             <figcaption>RTK Project</figcaption>
         </figure>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
-            Everyone is used to standard GPS geopositioning in their car, in their phone or in their computer. Standard GPS receivers have an accuracy between 2 to 10 meters, and only in outdoor conditions. As a group of 5 students, we teamed up to answer a problem raised by our tutor, professor Guillaume Auriol: to geolocate meteorological balloons in association with a Paul Sabatier team led by Professor Hassan Sabbah. As you can guess, the standard GPS is not accurate enough to precisely locate the balloon. So, our tutor was interested in a Real-Time Kinetics (RTK) solution since its accuracy is far more precise. The launch of the ArduSimple starter kit LR offered a relatively low-cost RTK module. Therefore, the aim of our project is to assess this solution to see if it is compatible with the needs of the project. As you can in the picture below, we were in possession of an ArduSimple starter kit LR composed of:
+            Everyone is used to standard GPS geopositioning in their car, in their phone or in their computer. Standard GPS receivers have an accuracy between 2 to 10 meters, and only in outdoor conditions. As a group of 5 students, we teamed up to answer a problem raised by our tutor, professor Guillaume Auriol: to geolocate meteorological balloons in association with a Paul Sabatier team led by Professor Hassan Sabbah. As you can guess, the standard GPS is not accurate enough to precisely locate the balloon. So, our tutor was interested in a Real-Time Kinetics (RTK) solution since its accuracy is far more precise. The launch of the ArduSimple starter kit LR offered a relatively low-cost RTK module. Therefore, the aim of our project is to assess this solution to see if it is compatible with the needs of the project. As you can in the picture, we were in possession of an ArduSimple starter kit LR composed of:
         </p>
         <ul style="margin-left: 10%; text-align: justify;">
             <li>2 simpleRTK2B boards (Rover and Base Station)</li>
@@ -60,18 +60,21 @@ SUPERVIZOR: VINCENT MIGLIORE
             <li>Base and Rover preconfiguration</li>
         </ul>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+            In terms of results, I am happy of what we achieved. We obtained the position of the rover with an acurracy of 2 cm. We also were able to retrieve the position of the rover directly on the base station. We store the position in a Firebase database and we display it on a map in our website. Finally, we wrote a complete state-of-the-art to explain our research about the RTK technology and its comparison with other technologies like GPS and DGPS.
+        </p>
+        <p style="margin-left: 10%; text-align: justify;">
             You can find our GitHub repository in the following link:
             <a href="https://github.com/ALievre/RTK_project">RTK Project</a>
         </p>
-        <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+        <p style="margin-left: 10%; text-align: justify;">
             You can also read our report in the following link:
             <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/rtk_report.pdf">RTK Project Report</a>
         </p>
-        <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+        <p style="margin-left: 10%; text-align: justify;">
             Here, you can find our presentation:
             <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/rtk_slides.pdf">RTK Project Presentation</a>
         </p>
-        <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
+        <p style="margin-left: 10%; text-align: justify;">
             Finally, you can find our demo video on Youtube:
             <a href="https://www.youtube.com/watch?v=SnIFUUjsiBk">RTK Project Demo Video</a>
         </p>
@@ -165,7 +168,7 @@ SUPERVIZOR: VINCENT MIGLIORE
         </tr>
         </table>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            I was really invested in the Innovative project because I was interested in the subject. It was full of challenges, but we managed to overcome them all and even going further than I even would have imagined at the beginning of the semester. Thus, I am very proud of my team for doing so. I used all the skills I gain this semester to resolve our problems. I gained more skills by using different tools like Firebase or Mapbox. With this project, I feel that I truly improved my technical skills but also my presentation and communication skills. I improved my English by writing the report and presenting the project.
+            I was really invested in the Innovative project because I was interested in the subject. It was full of challenges, but we managed to overcome them all and even going further than I even would have imagined at the beginning of the semester. Thus, I am very proud of my team for doing so. I used all the skills I gain this semester to resolve our problems. I did the major part of all the research about the GPS, DGPS and RTK technologies. I also used an ESP32 to parse the frames received by the base station.Moreover, I gained more skills by using different tools like Firebase or Mapbox. With this project, I feel that I truly improved my technical skills but also my presentation and communication skills. I improved my English by writing the report and presenting the project.
         </p>
         <table style="border-collapse: collapse; border: 1px #42a5f5 solid; text-align: center; margin-left: 2%;">
         <tr>
@@ -207,7 +210,7 @@ SUPERVIZOR: VINCENT MIGLIORE
             I wanted, for this feedback, to make a conclusion of this semester. I really liked how the semester was built with all the modules given to us to help us with our Innovative project. We clearly saw that all the classes, the tutorials, the labs, and the side projects helped us with the final project. I think that the modules really succeeded to convey that feeling.
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
-            	I was very satisfied with my choice to go in ISS. I really the kind of module like Smart Devices as it depicted exactly what I expected from ISS. Every class and lab were working together toward a bigger project. I have no doubt about the difficulty to establish this kind of module. So, I am very happy that I could beneficiate of all the feedbacks the older students made and the work of the professors and tutors which made this quality teaching possible.
+            I was very satisfied with my choice to go in ISS. I really the kind of module like Smart Devices as it depicted exactly what I expected from ISS. Every class and lab were working together toward a bigger project. I have no doubt about the difficulty to establish this kind of module. So, I am very happy that I could beneficiate of all the feedbacks the older students made and the work of the professors and tutors which made this quality teaching possible.
         </p>
         <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
            However, this does not mean that I was not satisfied with the teaching of the year. There were some really good and interesting modules, expecially Smart Devices. To me, it really encapsulates the spirit of ISS as I see it. All the classes in the module flow well together, there are dedicated requirements for every background, and you build a real tangible thing in the end that you can be proud of.

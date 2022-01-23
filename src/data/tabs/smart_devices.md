@@ -1,6 +1,6 @@
 <h3 style="color: #56b6c2">Smart Devices</h3>
 
-SUPERVIZOR: JÉRÉMIE GRISOLIA
+SUPERVISOR: JÉRÉMIE GRISOLIA
 
 <p style="text-indent: 2%; text-align: justify;">
     Smart devices based on sensors are an important part of all the devices surrounding us. In this course, we participated in the whole creation process of a gas sensor, from the nano-particle deposition to the signal acquisition on a microcontroller.

@@ -1,6 +1,6 @@
 <h3 style="color: #36874a">oneM2M Hackathon</h3>
 
-SUPERVIZOR: THIERRY MONTEIL
+SUPERVISOR: THIERRY MONTEIL
 
 <p style="text-indent: 2%; text-align: justify;">
     Every year, the ISS students must participate in a Hackathon. This year, Mr. Monteil chose the International oneM2M Hackathon managed by the Korean Electronic Technology Institute (KETI) and the European Telecommunication Standards Institute (ETSI).
@@ -33,7 +33,7 @@ SUPERVIZOR: THIERRY MONTEIL
         <br>
         <li>Predict the amount of water to deliver to the plant to achieve a certain growth rate over a given period for a given plant.</li>
     </ul>
-    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+    <p style="margin-left: 2%; text-align: justify;">
         You can find our Hackster.io project on the following link:
         <a href="https://www.hackster.io/haka/keti-hackathon-smart-crop-monitoring-and-growth-management-877d14">Smart Crop Monitoring</a>
         <br>
@@ -48,9 +48,9 @@ SUPERVIZOR: THIERRY MONTEIL
         During this Hackathon, we encountered many challenges:
     </p>
     <ul style="text-align: justify;">
-        <li>-	The sensors. As a matter of fact, we used several analogic sensors. Thus, we needed to use a multiplexer since the ESP8266 only has one analogic pin. It took us some time to operate it and we even had to change it. Finally, we succeeded thanks to the help of online documentation.</li>
+        <li>The sensors. As a matter of fact, we used several analogic sensors. Thus, we needed to use a multiplexer since the ESP8266 only has one analogic pin. It took us some time to operate it and we even had to change it. Finally, we succeeded thanks to the help of online documentation.</li>
         <br>
-        <li>-	The valve. First, we had issues finding one, but we managed to get it one week before the deadline. Then, it was not working with our system and we had to buy hoses to guide the water flow into the valve. Moreover, to have enough pressure to use the valve, we used a cat water fountain motor. In the end, everything was working but it took us some time to understand what was missing and then to collect all the material.</li>
+        <li>The valve. First, we had issues finding one, but we managed to get it one week before the deadline. Then, it was not working with our system and we had to buy hoses to guide the water flow into the valve. Moreover, to have enough pressure to use the valve, we used a cat water fountain motor. In the end, everything was working but it took us some time to understand what was missing and then to collect all the material.</li>
     </ul>
 </details>
 <br>

@@ -32,6 +32,12 @@ const StatusBar: React.FC = () => {
           size="sm"
           inverse
         />
+        <FontAwesomeIcon
+          className={classes.icon}
+          icon="heart"
+          size="sm"
+          inverse
+        />
       </span>
     </footer>
   );

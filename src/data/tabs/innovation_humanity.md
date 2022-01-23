@@ -1,6 +1,6 @@
 <h3 style="color: #9c56c2">Innovation & Humanity</h3>
 
-SUPERVIZOR: HÉLÈNE HERENG
+SUPERVISOR: HÉLÈNE HERENG
 
 <p style="text-indent: 2%; text-align: justify;">
     We all know that being an engineer relies a lot on technical skills but cannot forget the human aspects of this position. This module keeps us aware of all the subjects related to this facet of engineering.
@@ -18,15 +18,15 @@ SUPERVIZOR: HÉLÈNE HERENG
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid; font-weight: bold;">Innovation</td>
-       <td style="border: 1px #9c56c2 solid;">Series of lectures linked with our innovative project where we will discuss innovation , risk management, social acceptability and other concepts. We will also present our project in a more client-oriented way and adjust our strategy with the concepts we learned.</td>
+       <td style="border: 1px #9c56c2 solid;">Series of lectures linked with our innovative project where we will discuss innovation, risk management, social acceptability and other concepts. We will also present our project in a more client-oriented way and adjust our strategy with the concepts we learned.</td>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid; font-weight: bold;">Creativity methods (TRIZ)</td>
-       <td style="border: 1px #9c56c2 solid;">Mix of lectures and tutorials about the TRIZ creativity method, with an application to a concrete case by group.</td>
+       <td style="border: 1px #9c56c2 solid;">Mix of lectures and tutorials about the TRIZ creativity method, with an application to a concrete case.</td>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid; font-weight: bold;">Social psychology</td>
-       <td style="border: 1px #9c56c2 solid;">Unorthodox classes mixing classical lectures, presentations by students, movie analysis, all of that linking to main social psychology thesis like manipulation, social influence or psychosocial risks at work.</td>
+       <td style="border: 1px #9c56c2 solid;">Lectures, presentations by students, movie analysis, about social psychology thesis like manipulation, social influence or psychosocial risks at work.</td>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid; font-weight: bold;">Team management</td>
@@ -34,11 +34,11 @@ SUPERVIZOR: HÉLÈNE HERENG
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid; font-weight: bold;">Sports</td>
-       <td style="border: 1px #9c56c2 solid;">Three-day internship taking place in the Pyrenees mountains. Practice of high-mountain sports like rock-climbing, mountain bike and hiking.</td>
+       <td style="border: 1px #9c56c2 solid;">Three-day sport internship</td>
     </tr>
     <tr>
        <td style="border: 1px #9c56c2 solid; font-weight: bold;">Individual Professional Development</td>
-       <td style="border: 1px #9c56c2 solid;">Three interactive classes where different subjects are studied. How to behave in a job interview, what to expect when beginning a career in the industry, salary questions. These were followed by a formal job interview situation with professional HR experts coming to act as interviewers of a fake job.</td>
+       <td style="border: 1px #9c56c2 solid;">Three interactive classes where different subjects are studied: behavior in a job interview, what to expect when beginning a career in the industry, salary questions. These were followed by a formal job interview situation with professional HR experts coming to act as interviewers for a fake job.</td>
     </tr>
     </table>
     <br>
@@ -64,7 +64,7 @@ SUPERVIZOR: HÉLÈNE HERENG
     <details style="text-indent: 10%;">
         <summary style="color: #9c56c2">Polling the students about their sport training course</summary>
         <p style="text-indent: 10%; margin-left: 10%; text-align: justify;">
-            Instead of doing the sport internship because of medical issue, I had to write a report about the remarks the general opinions of the participants. I created a poll to ask the students questions about their expectations, their integration to the group, the progress of the internship, their global feelings and the possible improvements. You can find the report in the following link:
+            Instead of doing the sport internship because of medical issue, I had to write a report about the general opinions of the participants. I created a poll to ask the students questions about their expectations, their integration to the group, the progress of the internship, their global feelings and the possible improvements. You can find the report in the following link:
             <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/appn_report.pdf">APPN Report</a>
         </p>
     </details>

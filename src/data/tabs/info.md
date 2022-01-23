@@ -14,3 +14,6 @@ In this portfolio, you will find all the courses I took during my 5th year at IN
 <p style="text-indent: 2%; text-align: justify;">
 After these 3 years, the last semester in this PTP was really unusual because it brought together people with different background (electronics, computer science, physics, business and management). It was an amazing opportunity to learn from them and to try to gather as many hard and soft skills as I could.
 </p>
+<p style="text-indent: 2%; text-align: justify;">
+For this website, I chose a template, that I modified, using the Visual Studio Code window design because it represents my semester. I think this is the software I used the most in almost every module. I wanted my portfolio to pay tribute to this last year at INSA Toulouse.
+</p>

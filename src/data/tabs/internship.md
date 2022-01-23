@@ -56,7 +56,7 @@
     <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
         <b>UDS:</b> UDS or Unified Diagnostic Services is a communication protocol used for ECU diagnosis, debugging and configuration.
     </p>
-    <p style="text-indent: 2%; margin-left: 2%; text-align: justify;">
+    <p style="margin-left: 2%; text-align: justify;">
         You can find my poster on the following link:
         <a href="https://github.com/ALievre/5ISS_Portfolio/blob/main/public/files/vitesco_poster.pdf">Internship Poster</a>
         <br>

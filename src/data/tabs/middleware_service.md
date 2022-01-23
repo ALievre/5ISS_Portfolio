@@ -1,6 +1,6 @@
 <h3 style="color: #ffca28">Middleware & Service</h3>
 
-SUPERVIZOR: THIERRY MONTEIL
+SUPERVISOR: THIERRY MONTEIL
 
 <p style="text-indent: 2%; text-align: justify;">
     With the number of sensors and connected objects sharing data over the internet, it is important to study how they communicate and how they can work together even though they are different. That is what we will see in this module.
